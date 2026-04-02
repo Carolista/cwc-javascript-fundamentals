@@ -1,2 +1,2 @@
 # cwc-javascript-fundamentals
-Examples and exercises for Code with Carrie tutorial collection: JavaScript Fundamentals
+Examples and exercises for CodeWithCarrie.com tutorial collection: JavaScript Fundamentals
