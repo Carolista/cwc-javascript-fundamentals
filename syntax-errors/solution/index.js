@@ -1,0 +1,32 @@
+/**** DEBUGGING SYNTAX ERRORS IN JAVASCRIPT ****/
+
+/*
+    Syntax errors happen to everyone, even the most experienced of developers.
+    Getting familiar with how to spot them will help you debug quickly and move on. 
+    Here's some practice with the most common ones!
+*/
+
+// Delete lines 16 and 32, then run the code below from the terminal and 
+// fix the errors one-by-one, using the error message JavaScript provides to 
+// help you locate them. 
+
+// NOTE: It doesn't always point to the exact point where the error occurs, so 
+// you'll need to look at the greater context.
+
+console.log('JavaScript'); // mismatched quotes
+
+let myName = 'Carrie'; // boolean equality check instead of value assignment operator
+
+console.log(myName);
+
+if (2 + 2 === 4) { // value assignment operator instead of equality check
+	console.log("It's true!");
+} else { // missing opening bracket
+	console.log("It's false!");
+}
+
+console.log(Boolean("Strings with lengths greater than 0 are 'truthy!'")); 
+// missing double quote AND missing parenthesis
+
+// All fixed? Great job! Now you are better equipped to fix some of the 
+// simplest errors that inevitably pop up.
