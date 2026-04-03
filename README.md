@@ -1,21 +1,25 @@
 # Code with Carrie | JavaScript Fundamentals: Logic & Syntax
-Examples and exercises for CodeWithCarrie.com tutorial collection: JavaScript Fundamentals
+*Examples and exercises for the **JavaScript Fundamentals** tutorial collection on CodeWithCarrie.com*
 
-## EXAMPLES & EXERCISES
-I recommend working through the examples and exercises in the following sequence:
+Each topic will have at least one set of starter code and solution code corresponding to a video on the [@CodeWithCarrie](https://youtube.com/@CodeWithCarrie) YouTube channel. Use the links in the tables below for quick access.
+
+> [!TIP]
+> I recommend working through the examples and exercises in the sequence shown below. 
+
+## DEMOS & PRACTICE EXERCISES
 
 ### Code Output, Basic Syntax, Variables, Data Types, & User Input
 
-| Title | Link |
-| ----- | ---- |
-| Printing to the Console in JavaScript | [/printing-to-the-console](/printing-to-the-console/) |
-| Assigning Data Types in JavaScript | [/data-types](/data-types/) |
-|  | []() |
-|  | []() |
-|  | []() |
-|  | []() |
-|  | []() |
-|  | []() |
-|  | []() |
-|  | []() |
-| Debugging Syntax Errors | [/syntax-errors](/syntax-errors/) |
+| Topic | Code | Videos |
+| ----- | ---- | ------ |
+| Printing to the Console | [/printing-to-the-console](/printing-to-the-console/) | Demo \| Practice |
+| Declaring & Initializing Variables | []() | Demo \| Practice |
+| Assigning Data Types | [/data-types](/data-types/) | Demo \| Practice |
+| Order of Code Execution | [/code-execution](/code-execution/) | Demo \| Practice |
+| Naming Variables | []() | Demo \| Practice |
+| Data Type Conversion | []() | Demo \| Practice |
+| Getting User Input in the Console with readline-sync | []() | Demo \| Practice |
+| Creating An Interactive Program | []() | Demo \| Practice |
+|  | []() | Demo \| Practice |
+|  | []() | Demo \| Practice |
+| Debugging Syntax Errors | [/syntax-errors](/syntax-errors/) | Demo \| Practice |
