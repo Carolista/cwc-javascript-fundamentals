@@ -6,7 +6,7 @@
     The most basic and common data types in JavaScript are
     strings, numbers, and booleans. There are also special types
     like null and undefined. In this exercise you will
-    assign values to variables using the let keyword.
+    assign values to variables using the 'let' keyword.
 
     There are also complex types like arrays and objects that serve as
     data structures to store multiple pieces of data, which
@@ -46,7 +46,7 @@ console.log(darkMatter);
 // will likely appear as a medium gray. This is normal.
 
 // However, the only way to verify the actual type of a piece of data is to use the
-// typeof keyword, which returns a string with the name of the type.
+// 'typeof' keyword, which returns a string with the name of the type.
 
 // Log the type of each variable above to the console.
 console.log(typeof petName);

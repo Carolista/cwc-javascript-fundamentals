@@ -4,7 +4,7 @@
 //   A) Determine the appropriate data type,
 //   B) declare & initialize a variable to store an example value,
 //   C) log each variable to the console to verify it, and
-//   D) log its type.
+//   D) log its type with the 'typeof' keyword.
 
 // The title of your favorite book
 let faveBook = "The Hobbit";

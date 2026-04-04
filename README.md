@@ -13,7 +13,7 @@ Each topic will have at least one set of starter code and solution code correspo
 | Topic | Code | Videos |
 | ----- | ---- | ------ |
 | Printing to the Console | [/printing-to-the-console](/printing-to-the-console/) | Demo \| Practice |
-| Declaring & Initializing Variables | []() | Demo \| Practice |
+| Declaring & Initializing Variables | [/declaring-variables](/declaring-variables/) | Demo \| Practice |
 | Assigning Data Types | [/data-types](/data-types/) | Demo \| Practice |
 | Order of Code Execution | [/code-execution](/code-execution/) | Demo \| Practice |
 | Naming Variables | []() | Demo \| Practice |

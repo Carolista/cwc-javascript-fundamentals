@@ -38,7 +38,7 @@ let num = 1;
 
 console.log(num); // The value prints as 1
 
-// NOTE: Remember that you use the let keyword only once — when you first
+// NOTE: Remember that you use the 'let' keyword only once — when you first
 // declare the variable.
 
 num = 2;
