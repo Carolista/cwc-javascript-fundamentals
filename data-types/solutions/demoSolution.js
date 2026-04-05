@@ -16,17 +16,17 @@
 // Create a few examples of different data types.
 
 // String
-let petName = 'Marta';
+let shuttleName = 'Endeavor';
 
 // Number
-let numberOfCats = 2;
+let numberOfAstronauts = 5;
 
 // Boolean
-let hasDogs = false;
+let isReadyForLiftoff = false;
 
 // Null
-let toCookForDinner = null;
-// Haven't decided yet, but I will!
+let experimentResult = null;
+// The experiment will take place in space!
 
 // Undefined
 let darkMatter;
@@ -34,10 +34,10 @@ let darkMatter;
 
 // We can prove these have been correctly stored by logging them to
 // the console and checking the output when we run the file in the terminal.
-console.log(petName);
-console.log(numberOfCats);
-console.log(hasDogs);
-console.log(toCookForDinner);
+console.log(shuttleName);
+console.log(numberOfAstronauts);
+console.log(isReadyForLiftoff);
+console.log(experimentResult);
 console.log(darkMatter);
 
 // Depending on your terminal, you may note that numbers and booleans are a different
@@ -49,8 +49,8 @@ console.log(darkMatter);
 // 'typeof' keyword, which returns a string with the name of the type.
 
 // Log the type of each variable above to the console.
-console.log(typeof petName);
-console.log(typeof numberOfCats);
-console.log(typeof hasDogs);
-console.log(typeof toCookForDinner);
+console.log(typeof shuttleName);
+console.log(typeof numberOfAstronauts);
+console.log(typeof isReadyForLiftoff);
+console.log(typeof experimentResult);
 console.log(typeof darkMatter);

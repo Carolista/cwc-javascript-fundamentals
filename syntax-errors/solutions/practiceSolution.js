@@ -13,13 +13,13 @@ const input = require('readline-sync');
 let eggsResponse = input.question(
 	'\nGood morning. I was thinking about making breakfast. Do we have any eggs? Y / N ',
 );
-let hasEggs = eggsResponse.toUpperCase() === 'Y'; // true or false
+let hasEggs = eggsResponse === 'Y'; // true or false
 
 if (hasEggs) {
 	let cheeseResponse = input.question( // Fixed typo in method name.
 		'\nGreat! What about cheese? Do we have any cheddar? Y / N ',
 	);
-	let hasCheese = cheeseResponse.toUpperCase() === 'Y'; // true or false
+	let hasCheese = cheeseResponse === 'Y'; // true or false
 
 	if (hasCheese) { // Was a string instead of variable reference
 		console.log("\nPerfect! I'll make us some omelettes.");

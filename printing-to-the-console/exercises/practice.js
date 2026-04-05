@@ -6,21 +6,21 @@
     an opportunity for you to get some hands-on practice.
 */
 
-// TODO: Write console.log statements for each of the following pieces of information. 
+// Write console.log statements for each of the following pieces of information. 
 // Test each one by running the file in the terminal as you go.
 // Remember that strings must be in single or double quotes (e.g.: "JavaScript"). You'll
 // learn more about data types like strings and numbers very soon.
 
-// 1. Print the name of one of your all-time favorite music artists or bands.
+// 1. TODO: Print the name of one of your all-time favorite music artists or bands.
 
-// 2. Print your favorite pizza toppings.
+// 2. TODO: Print your favorite pizza toppings.
 
-// 3. Print the name of one of your pets (or the pet you wish you had).
+// 3. TODO: Print the name of one of your childhood pets (or a pet you wish you had).
 
-// 4. Print your favorite season of the year (winter, spring, summer, or fall).
+// 4. TODO: Print your favorite season of the year (winter, spring, summer, or fall).
 
-// 5. Print a whole sentence describing the reason you're learning to code.
+// 5. TODO: Print a whole sentence describing the reason you're learning to code.
 
-// 6. Print your preference: sweet or salty snacks?
+// 6. TODO: Print your preference: sweet or salty snacks?
 
 // Keep going! Practice printing as many things as you want to get comfortable with it.

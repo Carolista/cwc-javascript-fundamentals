@@ -6,41 +6,42 @@
 //   C) log each variable to the console to verify it, and
 //   D) log its type with the 'typeof' keyword.
 
-// The title of your favorite book
-let faveBook = "The Hobbit";
-console.log(faveBook);
-console.log(typeof faveBook);
+// 1. The name of your favorite character from Star Wars (any movie or show)
+let favoriteStarWarsCharacter = "Loth Cat"; // ok maybe that doesn't count, but they're so cute
+console.log(favoriteStarWarsCharacter);
+console.log(typeof favoriteStarWarsCharacter);
 
-// The number representing your birth month
-let myBirthMonth = 11;
-console.log(myBirthMonth);
-console.log(typeof myBirthMonth);
+// 2. The number of times you've watched the original Star Wars Trilogy
+let originalSWTrilogyWatchCount = 7 // or more
+console.log(originalSWTrilogyWatchCount);
+console.log(typeof originalSWTrilogyWatchCount);
 
-// Whether or not you love cilantro
-let lovesCilantro = true;
-console.log(lovesCilantro);
-console.log(typeof lovesCilantro);
+// 3. Whether or not you even like Star Wars all that much
+let likesStarWars = true;
+console.log(likesStarWars);
+console.log(typeof likesStarWars);
 
-// How many siblings you have
-let numberOfSiblings = 7;
-console.log(numberOfSiblings);
-console.log(typeof numberOfSiblings);
+// 4. How many total hours of Star Wars canon a person can watch (Google it!)
+let totalStarWarsHours = 251; // as of early 2026
+console.log(totalStarWarsHours);
+console.log(typeof totalStarWarsHours);
 
-// The exact date you will land your first job in tech after LaunchCode
-let futureJobDate = null; // one day you'll have a value for this
-console.log(futureJobDate);
-console.log(typeof futureJobDate);
+// 5. Create a variable that will eventually hold the true identity of Luke's father
+// (but let's say he doesn't know yet)
+let fatherOfLuke = null;
+console.log(fatherOfLuke);
+console.log(typeof fatherOfLuke);
 
-// An adjective that describes how you feel about learning to code
-let thatCodingFeeling = 'excited';
-console.log(thatCodingFeeling);
-console.log(typeof thatCodingFeeling);
+// 6. A common or memorable quote from the original trilogy
+let commonStarWarsQuote = "I have a bad feeling about this...";
+console.log(commonStarWarsQuote);
+console.log(typeof commonStarWarsQuote);
 
-// The result of the evaluation of 2 + 2 === 5
-let twoPlusTwoEqualsFive = false;
-console.log(twoPlusTwoEqualsFive);
-console.log(typeof twoPlusTwoEqualsFive);
+// 7. Whether Alderaan still exists or not (...too soon?)
+let doesAlderaanExist = false;
+console.log(doesAlderaanExist);
+console.log(typeof doesAlderaanExist);
 
 // Identifying which data type to use in various situations and how
 // their syntax differs is an important foundation for learning
-// to code. Onward and upward!
+// to code. This is the way!

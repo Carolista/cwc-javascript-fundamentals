@@ -15,10 +15,10 @@
 console.log("Bonobo");
 
 // 2. Print your favorite pizza toppings.
-console.log("Ham and pineapple");
+console.log("Ham and pineapple"); // I realize this is highly controversial
 
-// 3. Print the name of one of your pets (or the pet you wish you had).
-console.log("Darcy");
+// 3. Print the name of one of your childhood pets (or a pet you wish you had).
+console.log("Oreo");
 
 // 4. Print your favorite season of the year (winter, spring, summer, or fall).
 console.log("spring");

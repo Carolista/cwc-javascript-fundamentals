@@ -29,7 +29,7 @@ console.log(futureVacationSpot);
 // to the console to see its stored value.
 let perfectTemp = 72;
 console.log(perfectTemp);
-// Also okay if you initialized to a string like "72°F"
+// Also okay if you initialized to a string of characters, like "72°F"
 
 // 4A. Declare a variable called numberOfStatesVisited, but do not initialize it yet.
 let numberOfStatesVisited;
