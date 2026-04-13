@@ -20,7 +20,7 @@
     That's it!
 */
 
-/** EXAMPLE 1: DECLARING AND INITIALIZING TOGETHER **/
+/** EXAMPLE 1 - DECLARING AND INITIALIZING TOGETHER **/
 
 // Create two variables: one to store a grocery item and the other 
 // to store its price.
@@ -35,7 +35,7 @@ let price = 1.25;
 console.log(groceryItem); // red bell pepper
 console.log(price); // 1.25
 
-/** EXAMPLE 2: DECLARING AND INITIALIZING SEPARATELY **/
+/** EXAMPLE 2 - DECLARING AND INITIALIZING SEPARATELY **/
 
 // Create a variable that will eventually hold the name of a grocery store department
 // then print to see its current value before initialization

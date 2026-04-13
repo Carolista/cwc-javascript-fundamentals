@@ -2,7 +2,7 @@ const input = require('readline-sync');
 
 /**** DEBUGGING SYNTAX ERRORS: PRACTICE SOLUTION ****/
 
-// TODO: Delete the two lines indicated below, then run the code below from the terminal and
+// Delete the two lines indicated below, then run the code below from the terminal and
 // fix the errors one-by-one, using the error messages JavaScript provides to locate them.
 
 // NOTE: This is tricky. Pay close attention to the details on each line of code and use

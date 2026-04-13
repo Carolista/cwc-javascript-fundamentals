@@ -12,24 +12,24 @@
       - Booleans should ask a question, beginning with a verb
 */
 
-/** EXAMPLE 1: STRINGS **/
+/** STRINGS **/
 
-// TODO: Improve the variable names below.
+// 1. TODO: Improve the variable names below.
 let s1 = 'Discovery';
 let s2 = 'LC-39A';
 let status = 'CRITICAL';
 let msg = 'Oxygen levels dropping.';
 
-/** EXAMPLE 2: NUMBERS **/
+/** NUMBERS **/
 
-// TODO: Improve the variable names below.
+// 2. TODO: Improve the variable names below.
 let speed = 25000;
 let time = 12;
 let fuel = 0.15;
 
-/** EXAMPLE 3: BOOLEANS **/
+/** BOOLEANS **/
 
-// TODO: Improve the variable names below.
+// 3. TODO: Improve the variable names below.
 let landing = false;
 let engine = true;
 let contact = true;

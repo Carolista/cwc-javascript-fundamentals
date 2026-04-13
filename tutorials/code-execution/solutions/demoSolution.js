@@ -10,7 +10,7 @@
     in a certain order!
 */
 
-/** EXAMPLE 1: REFERENCE ERRORS **/
+/** EXAMPLE 1 - REFERENCE ERRORS **/
 
 // These lines of code will execute in order from top to bottom.
 // Currently there is a problem that is going to cause the program
@@ -28,7 +28,7 @@ console.log(total);
 // unable to log the value of total since total was declared below the
 // console.log statement.
 
-/** EXAMPLE 2: REASSIGNMENT **/
+/** EXAMPLE 2 - REASSIGNMENT **/
 
 // It is common to initialize a variable with one value and then reassign
 // a different value later. Let's use console.log statements to help us

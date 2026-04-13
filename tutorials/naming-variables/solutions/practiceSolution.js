@@ -7,9 +7,9 @@
       - Booleans should ask a question, beginning with a verb
 */
 
-/** EXAMPLE 1: STRINGS **/
+/** STRINGS **/
 
-// TODO: Improve the variable names below.
+// 1. Improve the variable names below.
 
 // 🚩 BAD: Vague or generic labels
 let s1 = "Discovery";
@@ -23,9 +23,9 @@ let launchPadId = "LC-39A";
 let alertLevel = "CRITICAL";
 let lifeSupportWarning = "Oxygen levels dropping.";
 
-/** EXAMPLE 2: NUMBERS **/
+/** NUMBERS **/
 
-// TODO: Improve the variable names below.
+// 2. Improve the variable names below.
 
 // 🚩 BAD: Ambiguous units
 let speed = 25000;
@@ -37,9 +37,9 @@ let velocityKph = 25000;
 let countdownSeconds = 12;
 let fuelLevelPercentage = 0.15; // or fuelPercentage
 
-/** EXAMPLE 3: BOOLEANS **/
+/** BOOLEANS **/
 
-// TODO: Improve the variable names below.
+// 3. Improve the variable names below.
 
 // 🚩 BAD: Nouns that don't imply "True/False"
 let landing = false;

@@ -1,14 +1,14 @@
 /**** DECLARING AND INITIALIZING VARIABLES: DEMO ****/
 
 
-/** EXAMPLE 1: DECLARING AND INITIALIZING TOGETHER **/
+/** EXAMPLE 1 - DECLARING AND INITIALIZING TOGETHER **/
 
 // DEMO: Create two variables: one to store a grocery item and the other 
 // to store its price.
 
 // DEMO: Print each variable to the console to verify their values have been stored
 
-/** EXAMPLE 2: DECLARING AND INITIALIZING SEPARATELY **/
+/** EXAMPLE 2 - DECLARING AND INITIALIZING SEPARATELY **/
 
 // DEMO: Create a variable that will eventually hold the name of a grocery store department
 // then print to see its current value before initialization

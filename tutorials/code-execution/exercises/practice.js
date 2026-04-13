@@ -1,8 +1,8 @@
 /**** ORDER OF CODE EXECUTION: PRACTICE ****/
 
-/** EXERCISE 1 **/
+/** STRINGBUILDING **/
 
-// TODO: Re-order the lines of code below so that running the file produces these two
+// 1. TODO: Re-order the lines of code below so that running the file produces these two
 // lines of output:
 // JAVA
 // JAVASCRIPT
@@ -19,9 +19,9 @@ console.log(word);
 
 // Run the file before moving on to ensure you get the expected result.
 
-/** EXERCISE 2 **/
+/** DATA MANIPULATION **/
 
-// TODO: Plan out the additional lines of code needed according to the following guidelines:
+// 2. TODO: Plan out the additional lines of code needed according to the following guidelines:
 //    A) You will modify some existing numbers. The final sum in the console should be 445.
 //    B) The sum should be calculated by adding all modified numbers and storing
 //       it in a new variable. Print only that new variable.
@@ -31,7 +31,7 @@ console.log(word);
 //    E) All even numbers should be made odd by subtracting 5 from their value
 //       and reassigning to the same variable without changing the original assignment.
 
-// TODO: Add code where needed below, then test by running the file.
+// Add code where needed below, then test by running the file.
 
 // IMPORTANT: Do not edit the 6 existing lines of code; add NEW lines of code only.
 

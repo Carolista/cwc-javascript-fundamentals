@@ -1,8 +1,8 @@
 /**** ORDER OF CODE EXECUTION: PRACTICE SOLUTION ****/
 
-/** EXERCISE 1 **/
+/** STRINGBUILDING **/
 
-// Re-order the lines of code below so that the final output is as follows:
+// 1. Re-order the lines of code below so that the final output is as follows:
 // JAVA
 // JAVASCRIPT
 let word = '';
@@ -20,9 +20,9 @@ console.log(word);
 
 // Run the file before moving on to ensure you got the expected result.
 
-/** EXERCISE 2 **/
+/** DATA MANIPULATION **/
 
-// Plan the additional lines of code needed according to the following guidelines:
+// 2. Plan the additional lines of code needed according to the following guidelines:
 //    A) You will modify some existing numbers. The final sum in the console should be 445.
 //    B) The sum should be calculated by adding all modified numbers and storing
 //       it in a new variable. Print only that new variable.
