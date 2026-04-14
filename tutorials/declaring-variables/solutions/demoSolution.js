@@ -22,7 +22,7 @@
 
 /** EXAMPLE 1 - DECLARING AND INITIALIZING TOGETHER **/
 
-// Create two variables: one to store a grocery item and the other 
+// Create two variables: one to store a grocery item and the other
 // to store its price.
 
 // Remember that values with characters, like a word or phrase, require quotes.

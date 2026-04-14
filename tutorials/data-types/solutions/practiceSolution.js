@@ -7,12 +7,12 @@
 //   D) log its type with the 'typeof' keyword.
 
 // 1. The name of your favorite character from Star Wars (any movie or show)
-let favoriteStarWarsCharacter = "Loth Cat"; // ok maybe that doesn't count, but they're so cute
+let favoriteStarWarsCharacter = 'Loth Cat'; // ok maybe that doesn't count, but they're so cute
 console.log(favoriteStarWarsCharacter);
 console.log(typeof favoriteStarWarsCharacter);
 
 // 2. The number of times you've watched the original Star Wars Trilogy
-let originalSWTrilogyWatchCount = 7 // or more
+let originalSWTrilogyWatchCount = 7; // or more
 console.log(originalSWTrilogyWatchCount);
 console.log(typeof originalSWTrilogyWatchCount);
 
@@ -33,7 +33,7 @@ console.log(fatherOfLuke);
 console.log(typeof fatherOfLuke);
 
 // 6. A common or memorable quote from the original trilogy
-let commonStarWarsQuote = "I have a bad feeling about this...";
+let commonStarWarsQuote = 'I have a bad feeling about this...';
 console.log(commonStarWarsQuote);
 console.log(typeof commonStarWarsQuote);
 

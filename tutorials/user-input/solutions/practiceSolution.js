@@ -24,13 +24,11 @@ console.log(`Fuel levels confirmed at ${fuelRemaining} metric tons.`);
 // 4. Ask the user, "How many crew members are currently on the ship?"
 // Use the method that requires a whole number (integer).
 // Print, "Initializing life support for [Count] individuals."
-const crewCount = input.questionInt(
-	'How many crew members are currently on the ship? ',
-);
+const crewCount = input.questionInt('How many crew members are currently on the ship? ');
 console.log(`Initializing life support for ${crewCount} individuals.`);
 
 // 5. Combine all three inputs previously gathered into a single template
-// literal message that has several lines and serves as a flight log, then print it. 
+// literal message that has several lines and serves as a flight log, then print it.
 const flightSummary = `
 --- AUTOMATED FLIGHT LOG ---
 The expedition to ${planetName} is underway. 

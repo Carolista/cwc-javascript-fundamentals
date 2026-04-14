@@ -4,7 +4,7 @@
 let crewCount = '7'; // integer
 let oxygenStatus = '0.85'; // float
 
-// DEMO: Use Number() to convert crewCount and oxygenStatus to numbers, 
+// DEMO: Use Number() to convert crewCount and oxygenStatus to numbers,
 // then print the new values and their types to the console.
 
 /** EXAMPLE 2 - Strings starting with numbers but having additional characters **/
@@ -34,4 +34,4 @@ let alertMessageCode = '';
 let isSystemOnline = true;
 
 // DEMO: Use Number() to convert isSystemOnline, then print both it
-// and its type to the console. What happens? 
+// and its type to the console. What happens?

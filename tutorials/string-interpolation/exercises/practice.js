@@ -2,8 +2,8 @@
 
 // 1. TODO: Print a single string using a template literal that combines the following three
 // variables and produces the following: "Captain Buzz has served in space for 12 years."
-let firstName = "Buzz";
-let rank = "Captain";
+let firstName = 'Buzz';
+let rank = 'Captain';
 let yearsInSpace = 12;
 
 // 2. TODO: Print a single string using a template literal that uses a single placehold to
@@ -21,5 +21,5 @@ let droidCrew = 2;
 // ENGAGE THRUSTERS
 //
 
-let planet = "Mars";
-let travelTime = "7 months";
+let planet = 'Mars';
+let travelTime = '7 months';

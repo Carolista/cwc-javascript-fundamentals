@@ -1,4 +1,4 @@
-// DEMO: Import the readline-sync library
+// Import the readline-sync library
 // NOTE: Always import a library at the very top of the file
 const input = require('readline-sync');
 // You can call it anything you want; I chose 'input'
@@ -35,26 +35,24 @@ const input = require('readline-sync');
 
 // Let's create a short interactive form for astronauts to check in with NASA.
 
-// DEMO: Create a hard-coded header
+// Create a hard-coded header.
 console.log('--- WELCOME TO MISSION CONTROL ---');
 
-// DEMO: Ask for the pilot name, then greet them.
+// Ask for the pilot name, then greet them.
 // Remember, .question() always returns a string.
 const pilotName = input.question('Enter Pilot Name: ');
 console.log(`Welcome aboard, Commander ${pilotName}!`);
 
-// DEMO: Ask for the number of orbits (validate as a whole number)
+// Ask for the number of orbits (validate as a whole number).
 // .questionInt() forces the user to enter a whole number.
 // If they type "ABC", the library will ask them again automatically!
 const orbitCount = input.questionInt('How many orbits have you completed? ');
 
-// DEMO: Ask for the current velocity (validate as a decimal number or 'float')
+// Ask for the current velocity (validate as a decimal number or 'float').
 // .questionFloat() allows for decimals (crucial for precise space math).
-const shipVelocityMach = input.questionFloat(
-	'Enter current velocity (in Mach): ',
-);
+const shipVelocityMach = input.questionFloat('Enter current velocity (in Mach): ');
 
-// DEMO: Print a final, multi-line summary using the data captured.
+// Print a final, multi-line summary using the data captured.
 console.log(`
     --- STATUS UPDATE SUMMARY ---
     PILOT: ${pilotName}
@@ -62,6 +60,6 @@ console.log(`
     CURRENT SPEED: Mach ${shipVelocityMach}
     STATUS: Ready for deep space maneuvers.
     `);
-    
-// NOTE: At this point, since readline-sync is no longer being used and there is 
+
+// NOTE: At this point, since readline-sync is no longer being used and there is
 // nothing left to print, the terminal will give you your prompt back.

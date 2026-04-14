@@ -6,8 +6,8 @@ const input = require('readline-sync');
 // fix the errors one-by-one, using the error messages JavaScript provides to locate them.
 
 // NOTE: This is tricky. Pay close attention to the details on each line of code and use
-// what you know about proper syntax to identify issues. Sometimes the error messages JavaScript 
-// will give you are misleading (it does its best, but it doesn't always see the big picture). 
+// what you know about proper syntax to identify issues. Sometimes the error messages JavaScript
+// will give you are misleading (it does its best, but it doesn't always see the big picture).
 // Also, some errors may not be caught until runtime because of the conditional paths.
 
 /*************** Delete this line before running!
@@ -36,6 +36,6 @@ if (hasEggs) {
 
 Delete this line also! ****************/
 
-// Make sure you test all possible logical paths since there are nested conditional blocks 
-// involved. You'll know you're done when all three console.log statements have printed 
-// successfully (depending on the path). 
+// Make sure you test all possible logical paths since there are nested conditional blocks
+// involved. You'll know you're done when all three console.log statements have printed
+// successfully (depending on the path).

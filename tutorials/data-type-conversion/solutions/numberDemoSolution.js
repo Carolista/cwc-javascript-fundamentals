@@ -16,7 +16,7 @@
 let crewCount = '7'; // integer
 let oxygenStatus = '0.85'; // float
 
-// Use Number() to convert crewCount and oxygenStatus to numbers, 
+// Use Number() to convert crewCount and oxygenStatus to numbers,
 // then print the new values and their types to the console.
 let numberOfAstronauts = Number(crewCount);
 let oxygenSaturation = Number(oxygenStatus);
@@ -68,7 +68,7 @@ console.log(typeof alertCodeNumber); // number
 let isSystemOnline = true;
 
 // Use Number() to convert isSystemOnline, then print both it
-// and its type to the console. What happens? 
+// and its type to the console. What happens?
 let systemStatus = Number(isSystemOnline);
 console.log(systemStatus); // 1
 console.log(typeof systemStatus); // number

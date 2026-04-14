@@ -1,8 +1,8 @@
 /**** DEBUGGING SYNTAX ERRORS: DEMO ****/
 
-// DEMO: Delete the first and last lines below as indicated, 
-// then run the code below from the terminal and fix the errors 
-// one-by-one, using the error messages JavaScript provides to locate them. 
+// DEMO: Delete the first and last lines below as indicated,
+// then run the code below from the terminal and fix the errors
+// one-by-one, using the error messages JavaScript provides to locate them.
 
 /*************** DELETE THIS LINE BEFORE RUNNING FILE
 

@@ -6,7 +6,7 @@
     an opportunity for you to get some hands-on practice.
 */
 
-// Write console.log statements for each of the following pieces of information. 
+// Write console.log statements for each of the following pieces of information.
 // Test each one by running the file in the terminal as you go.
 // Remember that strings must be in single or double quotes (e.g.: "JavaScript"). You'll
 // learn more about data types like strings and numbers very soon.

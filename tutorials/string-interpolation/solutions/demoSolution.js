@@ -16,8 +16,8 @@
 
 /** EXAMPLE ONE - Single line with variables **/
 
-let captain = "Malcolm Reynolds";
-let ship = "Serenity";
+let captain = 'Malcolm Reynolds';
+let ship = 'Serenity';
 let fuelLevel = 85;
 let fuelNeeded = 75;
 
@@ -28,7 +28,7 @@ let fuelNeeded = 75;
 
 // 🚩 THE OLD WAY (Concatenation)
 // Clunky, easy to forget a space, and uses many quotes.
-let oldMessage = "Captain " + captain + " has a ship called " + ship + ".";
+let oldMessage = 'Captain ' + captain + ' has a ship called ' + ship + '.';
 console.log(oldMessage);
 
 // Use a template literal to print the sentence instead.
@@ -40,7 +40,7 @@ console.log(newMessage);
 
 /** EXAMPLE 2 - Evaluating expressions within placeholders **/
 
-// Create a template literal stating the amount of fuel that will be 
+// Create a template literal stating the amount of fuel that will be
 // left after the next trip, with your calculation inside a single placeholder.
 // Print the result to the console.
 let fuelUpdate = `After the next trip to Whitefall, the fuel level will be ${fuelLevel - fuelNeeded}%.`;
@@ -50,7 +50,7 @@ console.log(fuelUpdate);
 
 // Template literals respect your Enter key! No need for multiple log statements.
 
-// Using a single template literal, create a multi-line mission brief 
+// Using a single template literal, create a multi-line mission brief
 // that lists the values from the variables above, then print it to the console.
 let missionBrief = `
 --- MISSION BRIEF ---
@@ -59,7 +59,7 @@ Ship:  ${ship}
 Fuel:  ${fuelLevel}%
 Status: Ready for takeoff
 `;
-// Notice how the coded lines between the backticks aren't indented — 
+// Notice how the coded lines between the backticks aren't indented —
 // only indent if you want the printed result to also be indented!
 
 console.log(missionBrief);

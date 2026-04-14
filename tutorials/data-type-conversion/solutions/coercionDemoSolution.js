@@ -9,7 +9,7 @@
 /** EXAMPLE 1 - CONCATENATION **/
 
 // The "+" operator favors strings (concatenation).
-// If JavaScript already has inferred that the value is a string, 
+// If JavaScript already has inferred that the value is a string,
 // any numbers will be converted to strings as well.
 let sectorText = 'Sector';
 let sectorNumber = 7;
@@ -23,7 +23,7 @@ console.log(typeof fullSectorAddress); // string
 
 /** EXAMPLE 2 - ARITHMETIC **/
 
-// Other math operators favor numbers and will try to convert 
+// Other math operators favor numbers and will try to convert
 // a string to a number if possible
 let totalDistanceKm = '1000';
 let distanceTraveledKm = 400;

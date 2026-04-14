@@ -79,13 +79,12 @@ console.log(
 		numberOfAstronauts * mealsPerAstronaut +
 		' meals have been loaded onto the shuttle ' +
 		shuttleName +
-		'.',
+		'.'
 );
 
 // Print "A total of 36 meals and beverages will be needed for each astronaut."
 console.log(
 	'A total of ' +
-		(mealsPerAstronaut +
-		beveragesPerAstronaut) +
-		' meals and beverages will be needed for each astronaut.',
+		(mealsPerAstronaut + beveragesPerAstronaut) +
+		' meals and beverages will be needed for each astronaut.'
 );

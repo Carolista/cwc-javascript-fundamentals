@@ -15,7 +15,7 @@
 // into a string. In some cases, either will do. Print each result to the
 // console along with its type.
 
-let countdown = 10; 
+let countdown = 10;
 let rocketFuelTempCelsius = 2740.5;
 let isSystemReady = true;
 let sensorData = null;

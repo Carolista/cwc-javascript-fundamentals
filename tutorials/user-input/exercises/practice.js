@@ -21,4 +21,4 @@
 // Print, "Initializing life support for [Count] individuals."
 
 // 5. TODO: Combine all three inputs previously gathered into a single template
-// literal message that has several lines and serves as a flight log, then print it. 
+// literal message that has several lines and serves as a flight log, then print it.
