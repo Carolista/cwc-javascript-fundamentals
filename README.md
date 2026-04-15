@@ -9,50 +9,27 @@ Each topic will have at least one set of starter code and solution code correspo
 
 ## DEMOS & PRACTICE EXERCISES
 
-### Basic Syntax
+### 1 - SETUP
 
-| Topic                                   | Code                                                           | Videos |
-| --------------------------------------- | -------------------------------------------------------------- | ------ |
-| Printing to the Console                 | [printing-to-the-console](/tutorials/printing-to-the-console/) | Demo   |
-| Declaring & Initializing Variables      | [declaring-variables](/tutorials/declaring-variables/)         | Demo   |
-| Assigning Data Types                    | [data-types](/tutorials/data-types/)                           | Demo   |
-| Order of Code Execution                 | [code-execution](/tutorials/code-execution/)                   | Demo   |
-| Naming Variables                        | [naming-variables](/tutorials/naming-variables/)               | Demo   |
-| Data Type Conversion: Strings           | [data-type-conversion](/tutorials/data-type-conversion/)       | Demo   |
-| Data Type Conversion: Numbers           | [data-type-conversion](/tutorials/data-type-conversion/)       | Demo   |
-| Data Type Conversion: Booleans          | [data-type-conversion](/tutorials/data-type-conversion/)       | Demo   |
-| Data Type Conversion: Type Coercion     | [data-type-conversion](/tutorials/data-type-conversion/)       | Demo   |
-| Template Literals                       | [template-literals](/tutorials/template-literals/)             | Demo   |
-| Capturing User Input with readline-sync | [user-input](/tutorials/user-input/)                           | Demo   |
+| Topic                                 | Code | Videos |
+| ------------------------------------- | ---- | ------ |
+| Installing NPM on Your Local Machine  | []() | Demo   |
+| Installing Node on Your Local Machine | []() | Demo   |
 
-### Control Flow & Logic
+### 2 - Basic Syntax
 
-Coming soon!
+| Topic                                   | Code                                                                           | Videos |
+| --------------------------------------- | ------------------------------------------------------------------------------ | ------ |
+| Printing to the Console                 | [printing-to-the-console](/tutorials/02-basic-syntax/printing-to-the-console/) | Demo   |
+| Declaring & Initializing Variables      | [declaring-variables](/tutorials/02-basic-syntax/declaring-variables/)         | Demo   |
+| Assigning Data Types                    | [data-types](/tutorials/02-basic-syntax/data-types/)                           | Demo   |
+| Order of Code Execution                 | [code-execution](/tutorials/02-basic-syntax/code-execution/)                   | Demo   |
+| Naming Variables                        | [naming-variables](/tutorials/02-basic-syntax/naming-variables/)               | Demo   |
+| Data Type Conversion: Strings           | [data-type-conversion](/tutorials/02-basic-syntax/data-type-conversion/)       | Demo   |
+| Data Type Conversion: Numbers           | [data-type-conversion](/tutorials/02-basic-syntax/data-type-conversion/)       | Demo   |
+| Data Type Conversion: Booleans          | [data-type-conversion](/tutorials/02-basic-syntax/data-type-conversion/)       | Demo   |
+| Data Type Conversion: Type Coercion     | [data-type-conversion](/tutorials/02-basic-syntax/data-type-conversion/)       | Demo   |
+| Template Literals                       | [template-literals](/tutorials/02-basic-syntax/template-literals/)             | Demo   |
+| Capturing User Input with readline-sync | [user-input](/tutorials/02-basic-syntax/user-input/)                           | Demo   |
 
-### Strings
-
-Coming soon!
-
-### Arrays
-
-Coming soon!
-
-### Loops
-
-Coming soon!
-
-### Object Basics
-
-Coming soon!
-
-### Function Basics
-
-Coming soon!
-
-### Objects with Functions
-
-Coming soon!
-
-### More on Functions
-
-Coming soon!
+More coming soon!
