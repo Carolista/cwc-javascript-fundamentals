@@ -9,12 +9,14 @@ Each topic will have at least one set of starter code and solution code correspo
 
 ## DEMOS & PRACTICE EXERCISES
 
-### 1 - SETUP
+### 1 - Setup
 
 | Topic                                 | Code | Videos |
 | ------------------------------------- | ---- | ------ |
 | Installing NPM on Your Local Machine  | []() | Demo   |
 | Installing Node on Your Local Machine | []() | Demo   |
+
+---
 
 ### 2 - Basic Syntax
 
@@ -31,5 +33,7 @@ Each topic will have at least one set of starter code and solution code correspo
 | Data Type Conversion: Type Coercion     | [data-type-conversion](/tutorials/02-basic-syntax/data-type-conversion/)       | Demo   |
 | Template Literals                       | [template-literals](/tutorials/02-basic-syntax/template-literals/)             | Demo   |
 | Capturing User Input with readline-sync | [user-input](/tutorials/02-basic-syntax/user-input/)                           | Demo   |
+
+---
 
 More coming soon!
