@@ -22,3 +22,5 @@
 
 // 5. TODO: Combine all three inputs previously gathered into a single template
 // literal message that has several lines and serves as a flight log, then print it.
+
+// TODO: Before you go... don't forget to make a git commit!

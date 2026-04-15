@@ -37,3 +37,5 @@ let fuelWarning = false;
 
 // That's all there is to it! We will cover how to name things like arrays
 // and functions after you've learned about them in the future.
+
+// TODO: Before you go... don't forget to make a git commit!

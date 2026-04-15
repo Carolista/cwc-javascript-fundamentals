@@ -23,3 +23,10 @@ let fuelLevel = 85;
 
 // DEMO: Using a single template literal, create a multi-line mission brief
 // that lists the values from the variables above, then print it to the console.
+
+// DEMO: Make a git commit!
+
+/* 
+    Follow up with additional exercises after demo for hands-on practice 
+    with problem-solving and coding!
+*/

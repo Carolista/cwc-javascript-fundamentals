@@ -5,3 +5,10 @@
 console.log('JavaScript');
 
 // DEMO: On the next line, print your name to the console.
+
+// DEMO: Make a git commit!
+
+/* 
+    Follow up with additional exercises after demo for hands-on practice 
+    with problem-solving and coding!
+*/

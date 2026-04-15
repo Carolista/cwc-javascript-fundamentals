@@ -44,3 +44,5 @@ let num6 = 95;
 
 // All done? Great job! Understanding how JavaScript executes and evaluates code is
 // important. Keep these principles in mind as you solve future problems!
+
+// TODO: Before you go... don't forget to make a git commit!

@@ -24,3 +24,5 @@
 // Identifying which data type to use in various situations and how
 // their syntax differs is an important foundation for learning
 // to code. This is the way!
+
+// TODO: Before you go... don't forget to make a git commit!

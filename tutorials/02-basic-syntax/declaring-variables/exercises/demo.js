@@ -14,3 +14,10 @@
 
 // DEMO: Initialize the variable to a specific value and print it again to verify that
 // it now stores a specific value. Do NOT use the 'let' keyword again.
+
+// DEMO: Make a git commit!
+
+/* 
+    Follow up with additional exercises after demo for hands-on practice 
+    with problem-solving and coding!
+*/

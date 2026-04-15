@@ -24,3 +24,5 @@
 // 6. TODO: Print your preference: sweet or salty snacks?
 
 // Keep going! Practice printing as many things as you want to get comfortable with it.
+
+// TODO: Before you go... don't forget to make a git commit!

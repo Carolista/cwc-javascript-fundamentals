@@ -17,3 +17,10 @@ let firstHumanToWalkOnMoon = 'Neil Armstrong';
 let buzzLightyearDestination = Infinity;
 
 // DEMO: Convert each value above to Boolean and log its new value.
+
+// DEMO: Make a git commit!
+
+/* 
+    Follow up with additional exercises after demo for hands-on practice 
+    with problem-solving and coding!
+*/

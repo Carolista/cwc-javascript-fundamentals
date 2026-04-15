@@ -13,3 +13,10 @@
 // DEMO: Ask for the current velocity (validate as a decimal number or 'float').
 
 // DEMO: Print a final, multi-line summary using the data captured.
+
+// DEMO: Make a git commit!
+
+/* 
+    Follow up with additional exercises after demo for hands-on practice 
+    with problem-solving and coding!
+*/

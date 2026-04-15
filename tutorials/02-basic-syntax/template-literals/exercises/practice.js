@@ -23,3 +23,5 @@ let droidCrew = 2;
 
 let planet = 'Mars';
 let travelTime = '7 months';
+
+// TODO: Before you go... don't forget to make a git commit!

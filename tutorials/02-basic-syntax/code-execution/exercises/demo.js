@@ -15,3 +15,10 @@ let num2 = 4;
 // to see those changes reflected at different points along the way.
 
 let num = 1;
+
+// DEMO: Make a git commit!
+
+/* 
+    Follow up with additional exercises after demo for hands-on practice 
+    with problem-solving and coding!
+*/

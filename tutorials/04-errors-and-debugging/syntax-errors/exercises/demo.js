@@ -21,3 +21,10 @@ if (2 + 2 = 4) {
 console.log(Boolean("Strings with lengths greater than 0 are 'truthy!'); 
 
 DELETE THIS LINE BEFORE RUNNING FILE ****************/
+
+// DEMO: Make a git commit!
+
+/* 
+    Follow up with additional exercises after demo for hands-on practice 
+    with problem-solving and coding!
+*/

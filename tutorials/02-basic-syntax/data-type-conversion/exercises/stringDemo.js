@@ -19,3 +19,10 @@ let countdown = 10;
 let rocketFuelTempCelsius = 2740.5;
 let isSystemReady = true;
 let sensorData = null;
+
+// DEMO: Make a git commit!
+
+/* 
+    Follow up with additional exercises after demo for hands-on practice 
+    with problem-solving and coding!
+*/

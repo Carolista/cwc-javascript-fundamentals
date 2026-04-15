@@ -39,3 +39,5 @@ Delete this line also! ****************/
 // Make sure you test all possible logical paths since there are nested conditional blocks
 // involved. You'll know you're done when all three console.log statements have printed
 // successfully (depending on the path).
+
+// TODO: Before you go... don't forget to make a git commit!

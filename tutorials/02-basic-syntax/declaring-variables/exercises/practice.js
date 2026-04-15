@@ -32,3 +32,5 @@
 // created above. Then print the variable to the console to see its stored value.
 
 // Great job! You will get LOTS more practice with this in future exercises.
+
+// TODO: Before you go... don't forget to make a git commit!

@@ -35,3 +35,10 @@ let isSystemOnline = true;
 
 // DEMO: Use Number() to convert isSystemOnline, then print both it
 // and its type to the console. What happens?
+
+// DEMO: Make a git commit!
+
+/* 
+    Follow up with additional exercises after demo for hands-on practice 
+    with problem-solving and coding!
+*/
