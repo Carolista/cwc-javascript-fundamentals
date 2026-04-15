@@ -6,7 +6,7 @@ export default [
 	{
 		ignores: [
 			'node_modules/**',
-			'tutorials/syntax-errors/**',
+			'tutorials/**/syntax-errors/**',
 			'tutorials/**/debug*/exercises/**',
 			'tutorials/**/debugging*/exercises/**',
 		],
