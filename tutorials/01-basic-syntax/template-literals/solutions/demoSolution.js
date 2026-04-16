@@ -16,8 +16,8 @@
 
 /** EXAMPLE ONE - Single line with variables **/
 
-let captain = 'Malcolm Reynolds';
-let ship = 'Serenity';
+let captain = "Malcolm Reynolds";
+let ship = "Serenity";
 let fuelLevel = 85;
 let fuelNeeded = 75;
 
@@ -28,7 +28,7 @@ let fuelNeeded = 75;
 
 // 🚩 THE OLD WAY (Concatenation)
 // Clunky, easy to forget a space, and uses many quotes.
-let oldMessage = 'Captain ' + captain + ' has a ship called ' + ship + '.';
+let oldMessage = "Captain " + captain + " has a ship called " + ship + ".";
 console.log(oldMessage);
 
 // Use a template literal to print the sentence instead.

@@ -11,12 +11,12 @@
 // The "+" operator favors strings (concatenation).
 // If JavaScript already has inferred that the value is a string,
 // any numbers will be converted to strings as well.
-let sectorText = 'Sector';
+let sectorText = "Sector";
 let sectorNumber = 7;
 
 // Concatenate the two variables above and store in a
 // new variable; print it and its type to the console.
-let fullSectorAddress = sectorText + ' ' + sectorNumber;
+let fullSectorAddress = sectorText + " " + sectorNumber;
 
 console.log(fullSectorAddress); // "Sector 7"
 console.log(typeof fullSectorAddress); // string
@@ -25,9 +25,9 @@ console.log(typeof fullSectorAddress); // string
 
 // Other math operators favor numbers and will try to convert
 // a string to a number if possible
-let totalDistanceKm = '1000';
+let totalDistanceKm = "1000";
 let distanceTraveledKm = 400;
-let oxygenLevel = '60';
+let oxygenLevel = "60";
 
 // Calculate the remaining distance and store in a
 // new variable; print it and its type to the console.
@@ -44,7 +44,7 @@ console.log(typeof doubleOxygen); // number
 /** EXAMPLE 3 - ANTICIPATING ERRORS WITH TYPE COERCION **/
 
 // What happens if a string cannot be converted to a number implicitly?
-let totalCargoMass = '12000 kg';
+let totalCargoMass = "12000 kg";
 let numberOfCargoHolds = 3;
 
 // Calculate the average mass per hold and store in a
@@ -57,7 +57,7 @@ console.log(averageCargoMassPerHold); // NaN
 // Use explicit conversion as needed to complete the mathematical
 // calculation, then use implicit conversion to add ' kg' to the result.
 // Print the final result and its type to the console.
-let avgMassPerHold = parseInt(totalCargoMass) / numberOfCargoHolds + ' kg';
+let avgMassPerHold = parseInt(totalCargoMass) / numberOfCargoHolds + " kg";
 console.log(avgMassPerHold); // 4000 kg
 console.log(typeof avgMassPerHold); // number
 

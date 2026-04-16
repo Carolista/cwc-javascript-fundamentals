@@ -17,17 +17,17 @@ let isShieldActive = true;
 
 // 2. TODO: Convert these values to numbers using the appropriate conversion function/method.
 // Store the converted values in new variables; print each variable and its type.
-let inputSpeed = '28000';
-let inputThrust = '9.81ms';
-let inputRotation = '15.5 degrees';
+let inputSpeed = "28000";
+let inputThrust = "9.81ms";
+let inputRotation = "15.5 degrees";
 
 // BOOLEANS
 
 // 3. TODO: Convert these values to booleans and store the values in new variables,
 // grouping them by "truthy" and "falsy". Print each variable and its type.
-let shipName = 'Columbia';
+let shipName = "Columbia";
 let cargoWeight = 0;
-let missionStatus = '';
+let missionStatus = "";
 let crewCount = 5;
 let repairPlan = null;
 
@@ -36,7 +36,7 @@ let repairPlan = null;
 let numberOfAstronauts = 5;
 let mealsPerAstronaut = 12;
 let beveragesPerAstronaut = 24;
-let shuttleName = 'Discovery';
+let shuttleName = "Discovery";
 
 // 4. TODO: Use what you know about implicit conversion to print the following sentences.
 // Use the variables above, and write only one line of code per sentence.

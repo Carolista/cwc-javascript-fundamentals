@@ -16,7 +16,7 @@
 // Create a few examples of different data types.
 
 // String
-let shuttleName = 'Endeavor';
+let shuttleName = "Endeavor";
 
 // Number
 let numberOfAstronauts = 5;

@@ -12,11 +12,11 @@
 
 // In the terminal, navigate to the directory where this file resides and
 // run it with the 'node' command to see the result of the code on the next line
-console.log('JavaScript');
+console.log("JavaScript");
 
 // On the next line, write the code that will print your own name to the console,
 // then run the file again from the terminal. You should see both logs appear.
-console.log('Carrie');
+console.log("Carrie");
 
 // That's all there is to it! Now you'll be able to test your code and see its output
 // in future exercises.

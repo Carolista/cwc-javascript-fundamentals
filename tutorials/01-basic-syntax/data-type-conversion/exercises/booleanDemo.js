@@ -3,7 +3,7 @@
 /** EXAMPLE 1 - FALSY VALUES */
 
 let humanVisitorsToMars = 0;
-let screamInSpace = '';
+let screamInSpace = "";
 let alienLifeDetected = null;
 let darkMatter = undefined;
 let imaginaryNumber = NaN;
@@ -13,7 +13,7 @@ let imaginaryNumber = NaN;
 /** EXAMPLE 2 - TRUTHY VALUES */
 
 let humanVisitorsToMoon = 28;
-let firstHumanToWalkOnMoon = 'Neil Armstrong';
+let firstHumanToWalkOnMoon = "Neil Armstrong";
 let buzzLightyearDestination = Infinity;
 
 // DEMO: Convert each value above to Boolean and log its new value.

@@ -23,9 +23,9 @@ console.log(shieldStatus, typeof shieldStatus); // "true"
 
 // 2. Convert these values to numbers using the appropriate conversion function/method.
 // Store the converted values in new variables; print each variable and its type.
-let inputSpeed = '28000';
-let inputThrust = '9.81ms';
-let inputRotation = '15.5 degrees';
+let inputSpeed = "28000";
+let inputThrust = "9.81ms";
+let inputRotation = "15.5 degrees";
 
 // Number() - Strict conversion
 let currentSpeed = Number(inputSpeed);
@@ -43,9 +43,9 @@ console.log(rotationValue, typeof rotationValue); // 15.5
 
 // 3. Convert these values to booleans and store the values in new variables,
 // grouping them by "truthy" and "falsy". Print each variable and its type.
-let shipName = 'Columbia'; // truthy
+let shipName = "Columbia"; // truthy
 let cargoWeight = 0; // falsy
-let missionStatus = ''; // falsy
+let missionStatus = ""; // falsy
 let crewCount = 5; // truthy
 let repairPlan = null; // falsy
 
@@ -68,23 +68,23 @@ console.log(hasRepairPlan, typeof hasRepairPlan); // false
 let numberOfAstronauts = 5;
 let mealsPerAstronaut = 12;
 let beveragesPerAstronaut = 24;
-let shuttleName = 'Discovery';
+let shuttleName = "Discovery";
 
 // 4. Use what you know about implicit conversion to print the following sentences.
 // Use the variables above, and write only one line of code per sentence.
 
 // Print "A total of 60 meals have been loaded onto the shuttle Discovery."
 console.log(
-	'A total of ' +
+	"A total of " +
 		numberOfAstronauts * mealsPerAstronaut +
-		' meals have been loaded onto the shuttle ' +
+		" meals have been loaded onto the shuttle " +
 		shuttleName +
-		'.'
+		"."
 );
 
 // Print "A total of 36 meals and beverages will be needed for each astronaut."
 console.log(
-	'A total of ' +
+	"A total of " +
 		(mealsPerAstronaut + beveragesPerAstronaut) +
-		' meals and beverages will be needed for each astronaut.'
+		" meals and beverages will be needed for each astronaut."
 );

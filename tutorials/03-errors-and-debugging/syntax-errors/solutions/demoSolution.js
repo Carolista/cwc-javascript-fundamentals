@@ -12,9 +12,9 @@
 // NOTE: It doesn't always point to the exact point where the error occurs, so
 // you may need to look at the greater context.
 
-console.log('JavaScript'); // mismatched quotes
+console.log("JavaScript"); // mismatched quotes
 
-let myName = 'Carrie'; // boolean equality check instead of value assignment operator
+let myName = "Carrie"; // boolean equality check instead of value assignment operator
 
 console.log(myName);
 

@@ -1,4 +1,4 @@
-const input = require('readline-sync');
+const input = require("readline-sync");
 
 /**** DEBUGGING SYNTAX ERRORS: PRACTICE SOLUTION ****/
 
@@ -11,16 +11,16 @@ const input = require('readline-sync');
 // Also, some errors may not be caught until runtime because of the conditional paths.
 
 let eggsResponse = input.question(
-	'\nGood morning. I was thinking about making breakfast. Do we have any eggs? Y / N '
+	"\nGood morning. I was thinking about making breakfast. Do we have any eggs? Y / N "
 );
-let hasEggs = eggsResponse === 'Y'; // true or false
+let hasEggs = eggsResponse === "Y"; // true or false
 
 if (hasEggs) {
 	let cheeseResponse = input.question(
 		// Fixed typo in method name.
-		'\nGreat! What about cheese? Do we have any cheddar? Y / N '
+		"\nGreat! What about cheese? Do we have any cheddar? Y / N "
 	);
-	let hasCheese = cheeseResponse === 'Y'; // true or false
+	let hasCheese = cheeseResponse === "Y"; // true or false
 
 	if (hasCheese) {
 		// Was a string instead of variable reference

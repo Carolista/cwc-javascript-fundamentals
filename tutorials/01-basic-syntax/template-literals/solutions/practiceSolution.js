@@ -2,8 +2,8 @@
 
 // 1. Print a single string using a template literal that combines the following three
 // variables and produces the following: "Captain Buzz has served in space for 12 years."
-let firstName = 'Buzz';
-let rank = 'Captain';
+let firstName = "Buzz";
+let rank = "Captain";
 let yearsInSpace = 12;
 
 console.log(`${rank} ${firstName} has served in space for ${yearsInSpace} years.`);
@@ -25,8 +25,8 @@ console.log(`Total crew members aboard: ${humanCrew + droidCrew}`);
 // ENGAGE THRUSTERS
 //
 
-let planet = 'Mars';
-let travelTime = '7 months';
+let planet = "Mars";
+let travelTime = "7 months";
 
 console.log(`
 DESTINATION: ${planet}

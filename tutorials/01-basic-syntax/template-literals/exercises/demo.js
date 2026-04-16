@@ -2,8 +2,8 @@
 
 /** EXAMPLE ONE - Single Lines **/
 
-let captain = 'Malcolm Reynolds';
-let ship = 'Serenity';
+let captain = "Malcolm Reynolds";
+let ship = "Serenity";
 let fuelLevel = 85;
 
 // Here's what we want to produce in the console using variables where the blanks are.

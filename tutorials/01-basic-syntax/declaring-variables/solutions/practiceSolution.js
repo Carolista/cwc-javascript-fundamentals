@@ -15,13 +15,13 @@
 // 1. Create a variable called myFavoriteMovie that stores the name
 // of one of your favorite movies, assign a value, then print the
 // variable to the console to see its stored value.
-let myFavoriteMovie = 'House of Flying Daggers';
+let myFavoriteMovie = "House of Flying Daggers";
 console.log(myFavoriteMovie);
 
 // 2. Create a variable called futureVacationSpot that stores a location
 // you plan to visit one day, assign a value, then print the variable to the
 // console to see its stored value.
-let futureVacationSpot = 'Iceland';
+let futureVacationSpot = "Iceland";
 console.log(futureVacationSpot);
 
 // 3. Create a variable called perfectTemp that stores your ideal temperature

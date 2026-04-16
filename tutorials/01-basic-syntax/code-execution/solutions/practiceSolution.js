@@ -5,16 +5,16 @@
 // 1. Re-order the lines of code below so that the final output is as follows:
 // JAVA
 // JAVASCRIPT
-let word = '';
+let word = "";
 
-word = word + 'JA';
-word = word + 'VA';
+word = word + "JA";
+word = word + "VA";
 
 console.log(word);
 
-word = word + 'SC';
-word = word + 'RI';
-word = word + 'PT';
+word = word + "SC";
+word = word + "RI";
+word = word + "PT";
 
 console.log(word);
 

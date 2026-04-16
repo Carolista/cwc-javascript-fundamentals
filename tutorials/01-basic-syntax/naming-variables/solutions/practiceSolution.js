@@ -12,16 +12,16 @@
 // 1. Improve the variable names below.
 
 // 🚩 BAD: Vague or generic labels
-let s1 = 'Discovery';
-let s2 = 'LC-39A';
-let status = 'CRITICAL';
-let msg = 'Oxygen levels dropping.';
+let s1 = "Discovery";
+let s2 = "LC-39A";
+let status = "CRITICAL";
+let msg = "Oxygen levels dropping.";
 
 // ✅ BETTER: Descriptive identity
-let shuttleName = 'Discovery';
-let launchPadId = 'LC-39A';
-let alertLevel = 'CRITICAL';
-let lifeSupportWarning = 'Oxygen levels dropping.';
+let shuttleName = "Discovery";
+let launchPadId = "LC-39A";
+let alertLevel = "CRITICAL";
+let lifeSupportWarning = "Oxygen levels dropping.";
 
 /** NUMBERS **/
 

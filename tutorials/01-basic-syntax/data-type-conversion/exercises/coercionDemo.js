@@ -2,7 +2,7 @@
 
 /** EXAMPLE 1 - CONCATENATION **/
 
-let sectorText = 'Sector';
+let sectorText = "Sector";
 let sectorNumber = 7;
 
 // DEMO: Concatenate the two variables above and store in a
@@ -10,9 +10,9 @@ let sectorNumber = 7;
 
 /** EXAMPLE 2 - ARITHMETIC **/
 
-let totalDistanceKm = '1000';
+let totalDistanceKm = "1000";
 let distanceTraveledKm = 400;
-let oxygenLevel = '60';
+let oxygenLevel = "60";
 
 // DEMO: Calculate the remaining distance and store in a
 // new variable; print it and its type to the console.
@@ -22,7 +22,7 @@ let oxygenLevel = '60';
 
 /** EXAMPLE 3 - ANTICIPATING ERRORS WITH TYPE COERCION **/
 
-let totalCargoMass = '12000 kg';
+let totalCargoMass = "12000 kg";
 let numberOfCargoHolds = 3;
 
 // DEMO: Calculate the average mass per hold and store in a

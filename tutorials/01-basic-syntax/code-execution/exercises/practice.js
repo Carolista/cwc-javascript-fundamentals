@@ -7,13 +7,13 @@
 // JAVA
 // JAVASCRIPT
 
-word = word + 'PT';
-word = word + 'VA';
-word = word + 'RI';
-word = word + 'SC';
-word = word + 'JA';
+word = word + "PT";
+word = word + "VA";
+word = word + "RI";
+word = word + "SC";
+word = word + "JA";
 
-let word = '';
+let word = "";
 console.log(word);
 console.log(word);
 

@@ -13,8 +13,8 @@
 */
 
 /** EXAMPLE 1 - Numbers stored as strings **/
-let crewCount = '7'; // integer
-let oxygenStatus = '0.85'; // float
+let crewCount = "7"; // integer
+let oxygenStatus = "0.85"; // float
 
 // Use Number() to convert crewCount and oxygenStatus to numbers,
 // then print the new values and their types to the console.
@@ -26,8 +26,8 @@ console.log(oxygenSaturation); // 0.85
 console.log(typeof oxygenSaturation); // number
 
 /** EXAMPLE 2 - Strings starting with numbers but having additional characters **/
-let missionLength = '17 days'; // integer
-let velocity = '45000.75 km/h'; // float
+let missionLength = "17 days"; // integer
+let velocity = "45000.75 km/h"; // float
 
 // Use parseInt() to extract the integer from missionLength,
 // then print the new value and its type to the console.
@@ -43,7 +43,7 @@ console.log(velocityKPH); // 45000.75
 console.log(typeof velocityKPH); // number
 
 /** EXAMPLE 3 - A string with no numeric value **/
-let pilotName = 'Sally Ride';
+let pilotName = "Sally Ride";
 
 // Use Number() to convert the string pilotName, then
 // print the new value and its type to the console. What happens?
@@ -54,7 +54,7 @@ console.log(typeof sallyAsANumber); // number
 // NOTE: Both NaN (not a number) and Infinity are special values in the number type
 
 /** EXAMPLE 4 - An empty string **/
-let alertMessageCode = '';
+let alertMessageCode = "";
 
 // Use Number() to convert the empty string alertMessage, then
 // print the new value and its type to the console. What happens?

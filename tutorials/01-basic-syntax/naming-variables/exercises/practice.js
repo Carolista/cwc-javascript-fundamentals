@@ -15,10 +15,10 @@
 /** STRINGS **/
 
 // 1. TODO: Improve the variable names below.
-let s1 = 'Discovery';
-let s2 = 'LC-39A';
-let status = 'CRITICAL';
-let msg = 'Oxygen levels dropping.';
+let s1 = "Discovery";
+let s2 = "LC-39A";
+let status = "CRITICAL";
+let msg = "Oxygen levels dropping.";
 
 /** NUMBERS **/
 

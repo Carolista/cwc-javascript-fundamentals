@@ -1,6 +1,6 @@
 // Import the readline-sync library
 // NOTE: Always import a library at the very top of the file
-const input = require('readline-sync');
+const input = require("readline-sync");
 // You can call it anything you want; I chose 'input'
 
 /**** CAPTURING USER INPUT FROM THE CONSOLE: SOLUTION ****/
@@ -36,21 +36,21 @@ const input = require('readline-sync');
 // Let's create a short interactive form for astronauts to check in with NASA.
 
 // Create a hard-coded header.
-console.log('--- WELCOME TO MISSION CONTROL ---');
+console.log("--- WELCOME TO MISSION CONTROL ---");
 
 // Ask for the pilot name, then greet them.
 // Remember, .question() always returns a string.
-const pilotName = input.question('Enter Pilot Name: ');
+const pilotName = input.question("Enter Pilot Name: ");
 console.log(`Welcome aboard, Commander ${pilotName}!`);
 
 // Ask for the number of orbits (validate as a whole number).
 // .questionInt() forces the user to enter a whole number.
 // If they type "ABC", the library will ask them again automatically!
-const orbitCount = input.questionInt('How many orbits have you completed? ');
+const orbitCount = input.questionInt("How many orbits have you completed? ");
 
 // Ask for the current velocity (validate as a decimal number or 'float').
 // .questionFloat() allows for decimals (crucial for precise space math).
-const shipVelocityMach = input.questionFloat('Enter current velocity (in Mach): ');
+const shipVelocityMach = input.questionFloat("Enter current velocity (in Mach): ");
 
 // Print a final, multi-line summary using the data captured.
 console.log(`

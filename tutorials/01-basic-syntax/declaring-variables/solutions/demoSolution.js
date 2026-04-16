@@ -26,7 +26,7 @@
 // to store its price.
 
 // Remember that values with characters, like a word or phrase, require quotes.
-let groceryItem = 'red bell pepper';
+let groceryItem = "red bell pepper";
 
 // Numbers should not have quotes or any other symbols.
 let price = 1.25;
@@ -44,7 +44,7 @@ console.log(department); // undefined
 
 // Initialize the variable to a specific value and print it again to verify that
 // it now stores a specific value. Do NOT use the 'let' keyword again.
-department = 'Produce';
+department = "Produce";
 console.log(department); // Produce
 
 // That's it! There are many other types of data we can store in variables,
