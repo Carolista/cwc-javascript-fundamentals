@@ -9,30 +9,33 @@ Each topic will have at least one set of starter code and solution code correspo
 
 ## DEMOS & PRACTICE EXERCISES
 
-### 1 - Setup
+### SETUP
 
-| Topic                                 | Code | Videos |
-| ------------------------------------- | ---- | ------ |
-| Installing NPM on Your Local Machine  | []() | Demo   |
-| Installing Node on Your Local Machine | []() | Demo   |
+> [!NOTE]
+> Make sure you have npm and node installed before continuing with any of the exercises below.
+
+| Topic                            | Videos |
+| -------------------------------- | ------ |
+| Installing NPM on Your Computer  | Demo   |
+| Installing Node on Your Computer | Demo   |
 
 ---
 
-### 2 - Basic Syntax
+### 1 - Basic Syntax
 
 | Topic                                   | Code                                                                           | Videos |
 | --------------------------------------- | ------------------------------------------------------------------------------ | ------ |
-| Printing to the Console                 | [printing-to-the-console](/tutorials/02-basic-syntax/printing-to-the-console/) | Demo   |
-| Declaring & Initializing Variables      | [declaring-variables](/tutorials/02-basic-syntax/declaring-variables/)         | Demo   |
-| Assigning Data Types                    | [data-types](/tutorials/02-basic-syntax/data-types/)                           | Demo   |
-| Order of Code Execution                 | [code-execution](/tutorials/02-basic-syntax/code-execution/)                   | Demo   |
-| Naming Variables                        | [naming-variables](/tutorials/02-basic-syntax/naming-variables/)               | Demo   |
-| Data Type Conversion: Strings           | [data-type-conversion](/tutorials/02-basic-syntax/data-type-conversion/)       | Demo   |
-| Data Type Conversion: Numbers           | [data-type-conversion](/tutorials/02-basic-syntax/data-type-conversion/)       | Demo   |
-| Data Type Conversion: Booleans          | [data-type-conversion](/tutorials/02-basic-syntax/data-type-conversion/)       | Demo   |
-| Data Type Conversion: Type Coercion     | [data-type-conversion](/tutorials/02-basic-syntax/data-type-conversion/)       | Demo   |
-| Template Literals                       | [template-literals](/tutorials/02-basic-syntax/template-literals/)             | Demo   |
-| Capturing User Input with readline-sync | [user-input](/tutorials/02-basic-syntax/user-input/)                           | Demo   |
+| Printing to the Console                 | [printing-to-the-console](/tutorials/01-basic-syntax/printing-to-the-console/) | Demo   |
+| Declaring & Initializing Variables      | [declaring-variables](/tutorials/01-basic-syntax/declaring-variables/)         | Demo   |
+| Assigning Data Types                    | [data-types](/tutorials/01-basic-syntax/data-types/)                           | Demo   |
+| Order of Code Execution                 | [code-execution](/tutorials/01-basic-syntax/code-execution/)                   | Demo   |
+| Naming Variables                        | [naming-variables](/tutorials/01-basic-syntax/naming-variables/)               | Demo   |
+| Data Type Conversion: Strings           | [data-type-conversion](/tutorials/01-basic-syntax/data-type-conversion/)       | Demo   |
+| Data Type Conversion: Numbers           | [data-type-conversion](/tutorials/01-basic-syntax/data-type-conversion/)       | Demo   |
+| Data Type Conversion: Booleans          | [data-type-conversion](/tutorials/01-basic-syntax/data-type-conversion/)       | Demo   |
+| Data Type Conversion: Type Coercion     | [data-type-conversion](/tutorials/01-basic-syntax/data-type-conversion/)       | Demo   |
+| Template Literals                       | [template-literals](/tutorials/01-basic-syntax/template-literals/)             | Demo   |
+| Capturing User Input with readline-sync | [user-input](/tutorials/01-basic-syntax/user-input/)                           | Demo   |
 
 ---
 
