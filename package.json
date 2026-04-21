@@ -1,20 +1,33 @@
 {
-  "name": "cwc-javascript-fundamentals",
-  "version": "1.0.0",
-  "description": "Examples and exercises for CodeWithCarrie.com tutorial collection: JavaScript Fundamentals",
-  "keywords": [
-    "javascript"
-  ],
-  "homepage": "https://github.com/Carolista/cwc-javascript-fundamentals#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Carolista/cwc-javascript-fundamentals.git"
-  },
-  "license": "ISC",
-  "author": "CodeWithCarrie.com (Caroline R. Jones)",
-  "type": "commonjs",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+	"name": "cwc-javascript-fundamentals",
+	"version": "1.0.0",
+	"description": "Examples and exercises for CodeWithCarrie.com tutorial collection: JavaScript Fundamentals",
+	"keywords": [
+		"javascript"
+	],
+	"homepage": "https://github.com/Carolista/cwc-javascript-fundamentals#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Carolista/cwc-javascript-fundamentals.git"
+	},
+	"license": "ISC",
+	"author": "CodeWithCarrie.com (Caroline R. Jones)",
+	"type": "commonjs",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"lint": "eslint .",
+		"lint:fix": "eslint . --fix",
+		"format": "prettier . --write",
+		"format:check": "prettier . --check"
+	},
+	"dependencies": {
+		"readline-sync": "^1.4.10"
+	},
+	"devDependencies": {
+		"@eslint/js": "^10.0.1",
+		"eslint": "^10.2.0",
+		"eslint-config-prettier": "^10.1.8",
+		"globals": "^17.5.0",
+		"prettier": "^3.8.2"
+	}
 }
