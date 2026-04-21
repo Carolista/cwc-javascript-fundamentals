@@ -62,4 +62,4 @@ console.log(avgMassPerHold); // 4000 kg
 console.log(typeof avgMassPerHold); // number
 
 // NOTE: There is also implicit conversion with boolean conditions, but we will
-// cover some uses cases for that in the future.
+// cover some use cases for that in the future.

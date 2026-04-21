@@ -1,6 +1,6 @@
 /**** STRING INTERPOLATION WITH TEMPLATE LITERALS ****/
 
-/** EXAMPLE ONE - Single Lines **/
+/** EXAMPLE 1 - Single Lines **/
 
 let captain = "Malcolm Reynolds";
 let ship = "Serenity";

@@ -15,27 +15,27 @@
 // into a string. In some cases, either will do. Print each result to the
 // console along with its type.
 
-let countdown = 10; // will always be a number, as low as 0
-let rocketFuelTempCelsius = 2740.5; // may be undefined
 let isSystemReady = true; // will always be true or false
+let countdown = 10; // will always be a number, as low as 0
 let sensorData = null; // placeholder for eventual data
-
-// Either function will work here since it will always hold a valid number
-let countdownAsText = String(countdown); // or countdown.toString()
-console.log(countdownAsText);
-console.log(typeof countdownAsText);
-
-// If rocketFuelTempCelsius can be undefined, it is safest to use String()
-let rocketFuelTempCelsiusAsText = String(rocketFuelTempCelsius);
-console.log(rocketFuelTempCelsiusAsText);
-console.log(typeof rocketFuelTempCelsiusAsText);
+let rocketFuelTempCelsius = 2740.5; // may be undefined
 
 // Either will work here because the value will always be true or false
 let isSystemReadyAsText = isSystemReady.toString(); // or String(isSystemReady)
 console.log(isSystemReadyAsText);
 console.log(typeof isSystemReadyAsText);
 
+// If you're certain countdown will always hold a valid number, either works
+let countdownAsText = String(countdown); // or countdown.toString()
+console.log(countdownAsText);
+console.log(typeof countdownAsText);
+
 // If sensorData can be null, it is safest to use String()
-let sensorDataAsText = String(sensorData);
+let sensorDataAsText = String(sensorData); // .toString() makes the program crash!
 console.log(sensorDataAsText);
 console.log(typeof sensorDataAsText);
+
+// If rocketFuelTempCelsius can be undefined, it is safest to use String()
+let rocketFuelTempCelsiusAsText = String(rocketFuelTempCelsius);
+console.log(rocketFuelTempCelsiusAsText);
+console.log(typeof rocketFuelTempCelsiusAsText);

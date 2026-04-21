@@ -2,6 +2,8 @@
 
 /** EXAMPLE 1 - REFERENCE ERRORS **/
 
+// DEMO: Run the code as-is to see what happens.
+
 // DEMO: Re-order the lines below so that there are no reference errors
 // and the total prints as expected.
 console.log(total);

@@ -14,7 +14,7 @@
     ${variableName}
 */
 
-/** EXAMPLE ONE - Single line with variables **/
+/** EXAMPLE 1 - Single line with variables **/
 
 let captain = "Malcolm Reynolds";
 let ship = "Serenity";
