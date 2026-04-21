@@ -14,11 +14,6 @@ Each topic will have at least one set of starter code and solution code correspo
 > [!NOTE]
 > Make sure you have npm and Node.js [installed](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) before continuing with any of the exercises below.
 
-| Topic                            | Video       |
-| -------------------------------- | ----------- |
-| Installing NPM on Your Computer  | Coming Soon |
-| Installing Node on Your Computer | Coming Soon |
-
 ---
 
 ### 1 - Basic Syntax
