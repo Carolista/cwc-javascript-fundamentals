@@ -22,3 +22,10 @@ let oxygenLevel = 15;
 /** EXAMPLE 4 - COMBINING OPERATORS **/
 
 // DEMO: Is oxygen within a safe range (between 10 and 20)?
+
+// DEMO: Make a git commit!
+
+/* 
+    Follow up with additional exercises after demo for hands-on practice 
+    with problem-solving and coding!
+*/

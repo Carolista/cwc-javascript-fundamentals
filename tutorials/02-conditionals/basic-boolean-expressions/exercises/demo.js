@@ -26,3 +26,10 @@ let requiredOxygen = 20;
 // DEMO: Check if we have enough oxygen to survive.
 
 // DEMO: Check if the oxygen is so low that it's critical
+
+// DEMO: Make a git commit!
+
+/* 
+    Follow up with additional exercises after demo for hands-on practice 
+    with problem-solving and coding!
+*/
