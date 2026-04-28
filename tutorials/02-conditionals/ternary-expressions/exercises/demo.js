@@ -10,14 +10,12 @@ let isDockingComplete = true;
 // DEMO: Now, rewrite it using a one-line ternary expression and assign
 // it to a variable called airlockGateStatus
 
-
 /** EXAMPLE 2 - USING A BOOLEAN EXPRESSION **/
 
 let lightYears = 5;
 
 // DEMO: If distance is over 10, assign "Warp", otherwise "Impulse" to a new
 // variable, driveMode
-
 
 // DEMO: Make a git commit!
 

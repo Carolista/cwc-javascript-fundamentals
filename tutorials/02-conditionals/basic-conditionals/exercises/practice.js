@@ -78,11 +78,11 @@ let landingStep = 2;
         - Otherwise: log "Waiting for sequence start"
 */
 if (landingStep === 1) {
-    console.log("Deploying heat shield");
+	console.log("Deploying heat shield");
 } else if (landingStep === 2) {
-    console.log("Deploying parachutes"); // Deploying parachutes
+	console.log("Deploying parachutes"); // Deploying parachutes
 } else if (landingStep === 3) {
-    console.log("Activating thrusters");
+	console.log("Activating thrusters");
 } else {
-    console.log("Waiting for sequence start");
+	console.log("Waiting for sequence start");
 }

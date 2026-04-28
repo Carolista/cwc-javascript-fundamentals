@@ -28,22 +28,23 @@ let currentSector = "Orion";
 let currentOxygen = 15;
 let requiredOxygen = 20;
 
-/** EXAMPLE 1 - STRICT EQUALITY **/ 
+/** EXAMPLE 1 - STRICT EQUALITY **/
 
 // We almost always use === to ensure types match exactly.
 let isCodeCorrect = inputCode === hatchCode;
 console.log(isCodeCorrect); // true
 
-/** EXAMPLE 2 - LOOSE EQUALITY **/ 
+/** EXAMPLE 2 - LOOSE EQUALITY **/
 
 // Only use == if one value needs to be coerced to a different type
-let hasShuttleMatchedSatelliteVelocity = shuttleVelocityMPH * KILOMETERS_PER_MILE == satelliteVelocityKPH;
+let hasShuttleMatchedSatelliteVelocity =
+	shuttleVelocityMPH * KILOMETERS_PER_MILE == satelliteVelocityKPH;
 console.log(hasShuttleMatchedSatelliteVelocity); // false
 
-/** EXAMPLE 3 - INEQUALITY **/ 
+/** EXAMPLE 3 - INEQUALITY **/
 
 // Check if the current sector is NOT our destination.
-let isNotAtDestination = currentSector !== "Mars"; 
+let isNotAtDestination = currentSector !== "Mars";
 console.log(isNotAtDestination); // true
 
 /** EXAMPLE 4 - GREATER THAN & LESS THAN **/

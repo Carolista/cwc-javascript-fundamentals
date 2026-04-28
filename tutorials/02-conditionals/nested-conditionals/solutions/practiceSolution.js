@@ -19,13 +19,13 @@ let correctPassword = "MarsBound-2026";
     If hasSecurityClearance is false: log "Clearance required."
 */
 if (hasSecurityClearance) {
-    if (inputPassword === correctPassword) {
-        console.log("Access granted to Command Console."); // Access granted to Command Console.
-    } else {
-        console.log("Invalid password.");
-    }
+	if (inputPassword === correctPassword) {
+		console.log("Access granted to Command Console."); // Access granted to Command Console.
+	} else {
+		console.log("Invalid password.");
+	}
 } else {
-    console.log("Clearance required.");
+	console.log("Clearance required.");
 }
 
 /** EXERCISE 2: THROTTLE SAFETY **/
@@ -41,13 +41,13 @@ let throttleSetting = 80;
     If isEngineOn is false: log "Engine is offline."
 */
 if (isEngineOn) {
-    if (throttleSetting > 75) {
-        console.log("Warning: High-thrust maneuver!"); // Warning: High-thrust maneuver!
-    } else {
-        console.log("Thrust level stable.");
-    }
+	if (throttleSetting > 75) {
+		console.log("Warning: High-thrust maneuver!"); // Warning: High-thrust maneuver!
+	} else {
+		console.log("Thrust level stable.");
+	}
 } else {
-    console.log("Engine is offline.");
+	console.log("Engine is offline.");
 }
 
 /** EXERCISE 3: CARGO BAY DOORS **/
@@ -63,13 +63,13 @@ let doorCommand = "OPEN";
     Otherwise: log "Doors remain closed."
 */
 if (doorCommand === "OPEN") {
-    if (isDoorObstructed === false) {
-        console.log("Opening cargo bay doors."); // Opening cargo bay doors.
-    } else {
-        console.log("Operation aborted: Obstruction detected.");
-    }
+	if (isDoorObstructed === false) {
+		console.log("Opening cargo bay doors."); // Opening cargo bay doors.
+	} else {
+		console.log("Operation aborted: Obstruction detected.");
+	}
 } else {
-    console.log("Doors remain closed.");
+	console.log("Doors remain closed.");
 }
 
 // Great job!

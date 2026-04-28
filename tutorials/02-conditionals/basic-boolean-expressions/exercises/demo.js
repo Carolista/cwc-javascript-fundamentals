@@ -9,15 +9,15 @@ let currentSector = "Orion";
 let currentOxygen = 15;
 let requiredOxygen = 20;
 
-/** EXAMPLE 1 - STRICT EQUALITY **/ 
+/** EXAMPLE 1 - STRICT EQUALITY **/
 
 // DEMO Check to see if the input code matches the hatch code.
 
-/** EXAMPLE 2 - LOOSE EQUALITY **/ 
+/** EXAMPLE 2 - LOOSE EQUALITY **/
 
 // DEMO: Check whether the shuttle has matched the satellite velocity yet
 
-/** EXAMPLE 3 - INEQUALITY **/ 
+/** EXAMPLE 3 - INEQUALITY **/
 
 // DEMO: Check if the current sector is NOT our destination.
 

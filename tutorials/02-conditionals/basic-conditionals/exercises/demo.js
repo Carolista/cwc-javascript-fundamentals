@@ -3,11 +3,11 @@
 let fuelPercent = 15;
 let hatchStatus = "Locked";
 
-/** EXAMPLE 1 - BASIC IF **/ 
+/** EXAMPLE 1 - BASIC IF **/
 
 // DEMO: Print a warning message if the fuel percentage is less than 20.
 
-/** EXAMPLE 2 - IF/ELSE PATHS **/ 
+/** EXAMPLE 2 - IF/ELSE PATHS **/
 
 // DEMO: If the hatch is open, print a caution message.
 // Otherwise, print a confirmation that it is secured.
@@ -28,7 +28,7 @@ let lightStatus = "Blinking Blue";
 // DEMO: Print specific messages if the light is green (go) or red (error),
 // then provide a third message for any value other than green or red.
 
-/** EXAMPLE 5 - MULTIPLE PATHS **/ 
+/** EXAMPLE 5 - MULTIPLE PATHS **/
 
 let fuelLevel = 45;
 

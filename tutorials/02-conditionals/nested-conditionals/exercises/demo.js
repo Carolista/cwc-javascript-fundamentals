@@ -5,7 +5,7 @@
     only after a primary condition has been met.
 */
 
-/** EXAMPLE 1 - THE GATEKEEPER **/ 
+/** EXAMPLE 1 - THE GATEKEEPER **/
 
 let isShipDocked = true;
 let airPressurePercent = 100;
