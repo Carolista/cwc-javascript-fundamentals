@@ -1,15 +1,37 @@
-# Code with Carrie | JavaScript Fundamentals: Logic & Syntax
+<div align="center">
+    <img src="public/images/cwc-logo-4-colors.svg" alt="Code with Carrie logo" width="50%" />
+    <h1>JavaScript Fundamentals: Logic & Syntax</h1>
+    <p><em>Code examples (with demo videos!) and extra practice exercises for new learners</em></p>
+    <a href="http://www.codewithcarrie.com"><img src="https://img.shields.io/badge/by-CodeWithCarrie.com-b03454?style=for-the-badge" alt="badge linking to CodeWithCarrie's website" /></a>
+    <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=333333" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=ffffff" alt="npm" />
+    
+</div>
 
-_Examples and exercises for the **JavaScript Fundamentals** tutorial collection on CodeWithCarrie.com_
+---
 
-Each topic will have at least one set of starter code and solution code corresponding to a video on the [@CodeWithCarrie](https://youtube.com/@CodeWithCarrie) YouTube channel. Use the links in the tables below for quick access.
+### Welcome!
+I am currently creating a **completely new** volume of demos and practice exercises for anyone looking to pick up the basics of programming in the context of JavaScript. In a field increasingly dominated by AI code generation, it is essential to have a firm grasp on the fundamentals in order to plan ahead, compose crystal-clear prompts, and recognize errors and poorly-formed code. The only way to build muscle is to exercise it, and learning programming is no different!
 
-> [!TIP]
-> I recommend working through the examples and exercises in the sequence shown below.
+>  [!IMPORTANT]
+> You need to deepen your problem-solving skills and core understanding of syntax and code composition independently _before_ you can integrate AI tools in your workflow and become a more efficient developer.
+
+---
 
 ## DEMOS & PRACTICE EXERCISES
 
+Each topic will have at least one set of starter code and solution code corresponding to a video on the [@CodeWithCarrie](https://youtube.com/@CodeWithCarrie) YouTube channel, and most topics will include hands-on practice exercises as well. Use the links in the tables below for quick peeks at the code. You can fork your own copy of this repository for practice on your local machine.
+
+> [!TIP]
+> I recommend working through the demos and exercises in the sequence shown below. 
+
+Go forth and learn!
+
+---
+
 ### SETUP
+
+This particular collection of coding exercises focuses solely on JavaScript (occasionally with the readline-sync dependency installed via npm). In my demo videos, I demonstrate Git best practices, but my tutorials on Git and GitHub are in a different repository.
 
 > [!NOTE]
 > Make sure you have npm and Node.js [installed](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) before continuing with any of the exercises below.
