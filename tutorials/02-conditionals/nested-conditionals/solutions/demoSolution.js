@@ -1,8 +1,18 @@
 /**** NESTED CONDITIONALS: SOLUTION ****/
 
 /*
-    Nested conditionals allow us to check for secondary conditions 
-    only after a primary condition has been met.
+    A nested conditional is an if statement placed inside another if statement. 
+    It allows us to check for a secondary condition only after a primary condition 
+    has been met.
+
+    The Hierarchy: The "outer" condition acts as a gatekeeper. If the outer condition 
+    is false, the computer never even looks at the "inner" condition.
+
+    It is perfect for scenarios where one check depends entirely on another. 
+    For example: If the ship is docked, then check if the airlock is safe to open.
+
+    Indentation is critical here. Every time you nest, you move the code further to 
+    the right so you can visually see which instructions belong to which "layer" of logic.
 */
 
 /** EXAMPLE 1 - THE GATEKEEPER **/
