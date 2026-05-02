@@ -27,11 +27,10 @@ const MISSION_NAME = "Ares V";
 
 // Physics and Math constants
 const PI = 3.14159;
-const GRAVITY_EARTH = 9.8;
+const GRAVITY_EARTH = 9.81;
 
 // Configuration settings
 const MAX_PASSENGERS = 5;
-const API_KEY = "XP-99-BETA";
 const DEFAULT_LANGUAGE = "EN-US";
 
 /** EXAMPLE 3 - CONST vs LET **/
