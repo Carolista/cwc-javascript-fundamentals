@@ -11,10 +11,11 @@
 ---
 
 ### Welcome!
+
 I am currently creating a **completely new** volume of demos and practice exercises for anyone looking to pick up the basics of programming in the context of JavaScript. In a field increasingly dominated by AI code generation, it is essential to have a firm grasp on the fundamentals in order to plan ahead, compose crystal-clear prompts, and recognize errors and poorly-formed code. The only way to build muscle is to exercise it, and learning programming is no different!
 
->  [!IMPORTANT]
-> You need to deepen your problem-solving skills and core understanding of syntax and code composition independently _before_ you can integrate AI tools in your workflow and become a more efficient developer.
+> [!IMPORTANT]
+> You need to deepen your problem-solving skills and core understanding of syntax and code composition independently _before_ you can integrate AI tools in your workflow and become a more efficient developer. My learning resources are designed to do just that!
 
 ---
 
@@ -23,7 +24,7 @@ I am currently creating a **completely new** volume of demos and practice exerci
 Each topic will have at least one set of starter code and solution code corresponding to a video on the [@CodeWithCarrie](https://youtube.com/@CodeWithCarrie) YouTube channel, and most topics will include hands-on practice exercises as well. Use the links in the tables below for quick peeks at the code. You can fork your own copy of this repository for practice on your local machine.
 
 > [!TIP]
-> I recommend working through the demos and exercises in the sequence shown below. 
+> I recommend working through the demos and exercises in the sequence shown below.
 
 Go forth and learn!
 
@@ -52,6 +53,7 @@ This particular collection of coding exercises focuses solely on JavaScript (occ
 | Data Type Conversion: Booleans          | [data-type-conversion](/tutorials/01-basic-syntax/data-type-conversion/)       | [Demo](https://youtu.be/xTPpM-wQXLc) (6:52)  |
 | Data Type Conversion: Type Coercion     | [data-type-conversion](/tutorials/01-basic-syntax/data-type-conversion/)       | [Demo](https://youtu.be/OA1NSzU0SHs) (7:49)  |
 | Template Literals                       | [template-literals](/tutorials/01-basic-syntax/template-literals/)             | [Demo](https://youtu.be/aomY7Y5khUI) (7:37)  |
+| Constants                               | [constants](/tutorials/01-basic-syntax/constants/)                             | Demo                                         |
 | Capturing User Input with readline-sync | [user-input](/tutorials/01-basic-syntax/user-input/)                           | [Demo](https://youtu.be/UDFCkM5fAUo) (11:08) |
 
 ---
@@ -68,4 +70,10 @@ This particular collection of coding exercises focuses solely on JavaScript (occ
 
 ---
 
-*..more coming soon!*
+_...more coming soon!_
+
+---
+
+## ABOUT THE AUTHOR
+
+Caroline Jones - [@Carolista](https://github.com/Carolista) - [CodeWithCarrie.com](http://codewithcarrie.com) - [LinkedIn](https://www.linkedin.com/in/carolinerjones)
