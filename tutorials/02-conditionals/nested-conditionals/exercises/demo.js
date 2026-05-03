@@ -1,9 +1,4 @@
-/**** NESTED CONDITIONALS: SOLUTION ****/
-
-/*
-    Nested conditionals allow us to check for secondary conditions 
-    only after a primary condition has been met.
-*/
+/**** NESTED CONDITIONALS ****/
 
 /** EXAMPLE 1 - THE GATEKEEPER **/
 
