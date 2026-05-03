@@ -43,7 +43,8 @@ if (fuelLevel < 20) {
 	if (isEmergencyOverrideActive) {
 		console.log("Fuel low, but override is active. Continuing mission.");
 	} else {
-		console.log("Alert: Low fuel! Immediate refueling required."); // Alert: Low fuel! Immediate refueling required.
+		console.log("Alert: Low fuel! Immediate refueling required.");
+		// Alert: Low fuel! Immediate refueling required.
 	}
 } else {
 	console.log("Fuel levels nominal.");

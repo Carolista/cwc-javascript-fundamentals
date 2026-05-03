@@ -19,22 +19,20 @@
     in a variable to act as a "status flag" for choices and conditions.
 */
 
+/** EXAMPLE 1 - STRICT EQUALITY **/
+
 let hatchCode = "1234-Alpha";
 let inputCode = "1234-Alpha";
-let shuttleVelocityMPH = 20000;
-let satelliteVelocityKPH = "15000";
-const KILOMETERS_PER_MILE = 1.60934;
-let currentSector = "Orion";
-let currentOxygen = 15;
-let requiredOxygen = 20;
-
-/** EXAMPLE 1 - STRICT EQUALITY **/
 
 // We almost always use === to ensure types match exactly.
 let isCodeCorrect = inputCode === hatchCode;
 console.log(isCodeCorrect); // true
 
 /** EXAMPLE 2 - LOOSE EQUALITY **/
+
+let shuttleVelocityMPH = 20000;
+let satelliteVelocityKPH = "15000";
+const KILOMETERS_PER_MILE = 1.60934;
 
 // Only use == if one value needs to be coerced to a different type
 let hasShuttleMatchedSatelliteVelocity =
@@ -43,11 +41,16 @@ console.log(hasShuttleMatchedSatelliteVelocity); // false
 
 /** EXAMPLE 3 - INEQUALITY **/
 
+let currentSector = "Orion";
+
 // Check if the current sector is NOT our destination.
 let isNotAtDestination = currentSector !== "Mars";
 console.log(isNotAtDestination); // true
 
 /** EXAMPLE 4 - GREATER THAN & LESS THAN **/
+
+let currentOxygen = 15;
+let requiredOxygen = 20;
 
 // Checking if we have enough oxygen to survive.
 let hasEnoughOxygen = currentOxygen > requiredOxygen;

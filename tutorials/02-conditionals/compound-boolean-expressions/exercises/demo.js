@@ -1,25 +1,29 @@
 /**** COMPOUND BOOLEAN EXPRESSIONS ****/
 
+/** EXAMPLE 1 - LOGICAL AND (&&) **/
+
 let hasFuel = true;
 let enginesActive = false;
-let isDaytime = true;
-let isWeekend = false;
-let missionStatus = "Ready";
-let oxygenLevel = 15;
-
-/** EXAMPLE 1 - LOGICAL AND (&&) **/
 
 // DEMO: To launch, we need both fuel and active engines.
 
 /** EXAMPLE 2 - LOGICAL OR (||) **/
 
+let isDaytime = true;
+let isWeekend = false;
+
 // DEMO: We can perform maintenance if it is daytime OR if it is the weekend.
 
 /** EXAMPLE 3 - LOGICAL NOT (!) **/
 
-// DEMO: We check if the mission is NOT in a "Ready" state.
+let missionStatus = "Ready";
+let fuelLevelPercentage = 100;
+
+// DEMO: Check if the mission is delayed.
 
 /** EXAMPLE 4 - COMBINING OPERATORS **/
+
+let oxygenLevel = 15;
 
 // DEMO: Is oxygen within a safe range (between 10 and 20)?
 
