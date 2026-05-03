@@ -17,10 +17,9 @@
     for the FIRST true condition it finds and ignore everything else in the chain.
 */
 
-let fuelPercent = 15;
-let hatchStatus = "Locked";
-
 /** EXAMPLE 1 - BASIC IF **/
+
+let fuelPercent = 15;
 
 // If the condition is true, the message prints. If false, nothing happens.
 if (fuelPercent < 20) {
@@ -28,6 +27,8 @@ if (fuelPercent < 20) {
 }
 
 /** EXAMPLE 2 - IF/ELSE PATHS **/
+
+let hatchStatus = "Locked";
 
 // We provide two distinct paths for the computer to take.
 if (hatchStatus === "Open") {

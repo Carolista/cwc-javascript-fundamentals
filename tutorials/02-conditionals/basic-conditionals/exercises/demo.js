@@ -1,13 +1,14 @@
 /**** BASIC CONDITIONAL STATEMENTS ****/
 
-let fuelPercent = 15;
-let hatchStatus = "Locked";
-
 /** EXAMPLE 1 - BASIC IF **/
+
+let fuelPercent = 15;
 
 // DEMO: Print a warning message if the fuel percentage is less than 20.
 
 /** EXAMPLE 2 - IF/ELSE PATHS **/
+
+let hatchStatus = "Locked";
 
 // DEMO: If the hatch is open, print a caution message.
 // Otherwise, print a confirmation that it is secured.
