@@ -50,7 +50,7 @@ if (isIgnitionTriggered) {
 
 console.log(engineStatus); // Active
 
-/** EXAMPLE 6 - LOOKING FOR SPECIFIC MATCHES **/
+/** EXAMPLE 4 - LOOKING FOR SPECIFIC MATCHES **/
 
 let lightStatus = "Blinking Blue";
 
@@ -62,7 +62,7 @@ if (lightStatus === "Green") {
 	console.log("Unknown status light detected."); // Unknown status light detected.
 }
 
-/** EXAMPLE 4 - MULTIPLE PATHS **/
+/** EXAMPLE 5 - MULTIPLE PATHS **/
 
 let fuelLevel = 45;
 
