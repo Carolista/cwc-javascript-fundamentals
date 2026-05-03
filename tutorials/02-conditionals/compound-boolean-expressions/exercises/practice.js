@@ -5,14 +5,10 @@
     to complete the practice exercises below.
 */
 
+/** EXERCISE 1: LAUNCH READINESS **/
+
 let fuelLevel = 25;
 let isEngineHot = false;
-let hasOxygen = true;
-let isCommunicationUp = false;
-let weatherStatus = "Clear";
-let distanceToTargetKm = 500;
-
-/** EXERCISE 1: LAUNCH READINESS **/
 
 /*
     TODO: A ship can launch if the fuelLevel is above 20 AND
@@ -22,6 +18,9 @@ let distanceToTargetKm = 500;
 
 /** EXERCISE 2: LIFE SUPPORT CHECK **/
 
+let hasOxygen = true;
+let distanceToTargetKm = 500;
+
 /* 
     TODO: The crew is safe if they have oxygen OR
     if the distanceToTargetKm is less than 100.
@@ -30,24 +29,20 @@ let distanceToTargetKm = 500;
 
 /** EXERCISE 3: CONTACT STATUS **/
 
+let isCommunicationUp = false;
+
 /*
-    TODO: We are in a "Silence" state if communication is NOT up.
-    Create a variable 'isRadioSilence' by flipping the
+    TODO: We are in a "Silent" state if communication is NOT up.
+    Create a variable 'isRadioSilent' by flipping the
     value of 'isCommunicationUp', then log the result.
 */
 
 /** EXERCISE 4: WEATHER PERMITTING **/
 
+let weatherStatus = "Clear";
+
 /* 
     TODO: A landing is allowed if the weatherStatus is "Clear"
     OR the weatherStatus is "Cloudy".
     Create a variable 'isWeatherPassable' and log the result.
-*/
-
-/* EXERCISE 5: THE GAUNTLET */
-
-/* 
-    TODO: A "Critical Alert" happens if fuelLevel is below 30
-    AND the engine is hot.
-    Create a variable 'hasCriticalAlert' and log the result.
 */

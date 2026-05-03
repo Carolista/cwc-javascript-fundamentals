@@ -5,14 +5,10 @@
     practice exercises below.
 */
 
+/** EXERCISE 1: SPEED CHECK **/
+
 let shipSpeed = 15000;
 let escapeVelocity = 28000;
-let crewPresent = 5;
-let crewRequired = 5;
-let missionStatus = "Pre-Launch";
-let pilotRank = "Rookie";
-
-/** EXERCISE 1: SPEED CHECK **/
 
 /*
     TODO: Create a boolean variable named 'isAtEscapeVelocity'.
@@ -22,13 +18,18 @@ let pilotRank = "Rookie";
 
 /** EXERCISE 2: CREW COUNT **/
 
+let crewPresent = "5";
+let crewRequired = 5;
+
 /* 
     TODO: Create a boolean variable named 'isCrewReady'.
-    Check if 'crewPresent' is exactly equal to 'crewRequired',
+    Check if 'crewPresent' is strictly equal to 'crewRequired',
     then log the new variable.
 */
 
 /** EXERCISE 3: STATUS CHECK **/
+
+let missionStatus = "Pre-Launch";
 
 /*
     TODO: Create a boolean variable named 'isNotAborted'.
@@ -37,6 +38,8 @@ let pilotRank = "Rookie";
 */
 
 /** EXERCISE 4: EXPERIENCE CHECK **/
+
+let pilotRank = "Rookie";
 
 /* 
     TODO: Create a boolean variable named 'isCaptain'.
