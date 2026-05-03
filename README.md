@@ -21,7 +21,7 @@ I am currently creating a **completely new** volume of demos and practice exerci
 
 ## DEMOS & PRACTICE EXERCISES
 
-Each topic will have at least one set of starter code and solution code corresponding to a video on the [@CodeWithCarrie](https://youtube.com/@CodeWithCarrie) YouTube channel, and most topics will include hands-on practice exercises as well. Use the links in the tables below for quick peeks at the code. You can fork your own copy of this repository for practice on your local machine.
+Each topic will have at least one set of starter code and solution code corresponding to a video on the [@CodeWithCarrie](https://youtube.com/@CodeWithCarrie) YouTube channel, and most topics will include hands-on practice exercises as well. Use the links in the tables below for quick peeks at the code. You can fork your own copy of this repository for practice on your local machine. While individual links are available below for each video, you can also start with the [full playlist](https://www.youtube.com/playlist?list=PLvcPeTeqi37QYL9fnn4Y1ZJdsyFTHJU7D).
 
 > [!TIP]
 > I recommend working through the demos and exercises in the sequence shown below.
@@ -53,20 +53,20 @@ This particular collection of coding exercises focuses solely on JavaScript (occ
 | Data Type Conversion: Booleans          | [data-type-conversion](/tutorials/01-basic-syntax/data-type-conversion/)       | [Demo](https://youtu.be/xTPpM-wQXLc) (6:52)  |
 | Data Type Conversion: Type Coercion     | [data-type-conversion](/tutorials/01-basic-syntax/data-type-conversion/)       | [Demo](https://youtu.be/OA1NSzU0SHs) (7:49)  |
 | Template Literals                       | [template-literals](/tutorials/01-basic-syntax/template-literals/)             | [Demo](https://youtu.be/aomY7Y5khUI) (7:37)  |
-| Constants                               | [constants](/tutorials/01-basic-syntax/constants/)                             | Demo                                         |
+| Constants                               | [constants](/tutorials/01-basic-syntax/constants/)                             | [Demo](https://youtu.be/NDcT4XVbLFo) (4:27)  |
 | Capturing User Input with readline-sync | [user-input](/tutorials/01-basic-syntax/user-input/)                           | [Demo](https://youtu.be/UDFCkM5fAUo) (11:08) |
 
 ---
 
 ### 2 - Conditionals
 
-| Topic                         | Code                                                                                     | Videos |
-| ----------------------------- | ---------------------------------------------------------------------------------------- | ------ |
-| Basic Boolean Expressions     | [basic-boolean-expressions](/tutorials/02-conditionals/basic-boolean-expressions/)       | Demo   |
-| Compound Boolean Expressions  | [compound-boolean-expressions](/tutorials/02-conditionals/compound-boolean-expressions/) | Demo   |
-| Basic Conditional Statements  | [basic-conditionals](/tutorials//02-conditionals/basic-conditionals/)                    | Demo   |
-| Nested Conditional Statements | [nested-conditionals](/tutorials/02-conditionals/nested-conditionals/)                   | Demo   |
-| Ternary Expressions           | [ternary-expressions](/tutorials/02-conditionals/ternary-expressions/)                   | Demo   |
+| Topic                         | Code                                                                                     | Videos                                       |
+| ----------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------- |
+| Basic Boolean Expressions     | [basic-boolean-expressions](/tutorials/02-conditionals/basic-boolean-expressions/)       | [Demo](https://youtu.be/C8JBw-Nrgd8) (6:32)  |
+| Compound Boolean Expressions  | [compound-boolean-expressions](/tutorials/02-conditionals/compound-boolean-expressions/) | [Demo](https://youtu.be/9iuuOkLV_UY) (5:20)  |
+| Basic Conditional Statements  | [basic-conditionals](/tutorials//02-conditionals/basic-conditionals/)                    | [Demo](https://youtu.be/QsWtOX6bNZI) (11:11) |
+| Nested Conditional Statements | [nested-conditionals](/tutorials/02-conditionals/nested-conditionals/)                   | [Demo](https://youtu.be/XhzXDnG06x4) (7:55)  |
+| Ternary Expressions           | [ternary-expressions](/tutorials/02-conditionals/ternary-expressions/)                   | [Demo](https://youtu.be/B8P8RbmmeUg) (5:19)  |
 
 ---
 
