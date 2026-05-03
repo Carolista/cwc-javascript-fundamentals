@@ -38,7 +38,7 @@ let missionStatus = "Ready";
 let fuelLevelPercentage = 100;
 
 // We check if the mission is NOT in a "Ready" state.
-let isMissionDelayed = !(missionStatus === "Ready" && fuelLevelPercentage);
+let isMissionDelayed = !(missionStatus === "Ready" && fuelLevelPercentage === 100);
 console.log(isMissionDelayed); // false
 
 /** EXAMPLE 4 - COMBINING OPERATORS **/
