@@ -17,7 +17,7 @@ let pilotExperience = 10; // years
 let requiredExperience = 5;
 let hasHelmet = false;
 
-let isPilotCleared; // for spacewalk
+let isPilotCleared = false; // for spacewalk
 
 // DEMO: Run the code to see the result, then fix the code and re-run to verify.
 if (pilotExperience >= requiredExperience && pilotExperience >= requiredExperience) {
