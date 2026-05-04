@@ -70,6 +70,15 @@ This particular collection of coding exercises focuses solely on JavaScript (occ
 
 ---
 
+### 3 - Errors & Debugging
+
+| Topic                               | Code                                                                           | Videos                                      |
+| ----------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------- |
+| Debugging Syntax and Runtime Errors | [syntax-errors](/tutorials/03-errors-and-debugging/syntax-and-runtime-errors/) | [Demo](https://youtu.be/63hfXRu7sDQ) (6:48) |
+| Debugging Logic Errors              | [logic-errors](/tutorials/03-errors-and-debugging/logic-errors/)               | [Demo](https://youtu.be/_9iAOWDVpR0) (4:02) |
+
+---
+
 _...more coming soon!_
 
 ---
