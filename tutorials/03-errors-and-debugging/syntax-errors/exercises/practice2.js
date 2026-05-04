@@ -16,8 +16,10 @@ const input = require("readline-sync");
 
 console.log("--- INITIALIZING MISSION CONTROL ---");
 
-// TODO: Un-comment the line below and run the program to see the error message,
-// then fix the code and re-run to verify.
+/* 
+    TODO: Un-comment the line below and run the program to see the error message,
+    then fix the code and re-run to verify.
+*/
 // let pilotName = input.question("Enter Pilot Name: ";
 
 // --- 2. ENGINE STATUS CHECK ---
@@ -25,8 +27,10 @@ console.log("--- INITIALIZING MISSION CONTROL ---");
 let engineStatus = "Off";
 let checkEngines = input.question("Perform engine diagnostic? (Y/N): ");
 
-// TODO: Un-comment the if/else statement below and run the program to see the error message,
-// then fix the code and re-run to verify.
+/* 
+    TODO: Un-comment the if/else statement below and run the program to see the error message,
+    then fix the code and re-run to verify.
+*/
 // if (checkEngines === "Y") {
 //     console.log(`Engine Health at ${engineHealth}%`);
 //     engineStatus = "Ready";
@@ -39,12 +43,16 @@ let checkEngines = input.question("Perform engine diagnostic? (Y/N): ");
 
 console.log("\n--- CARGO BAY CHECK ---");
 
-// TODO: Un-comment the line below and run the program to see the error message,
-// then fix the code and re-run to verify.
+/* 
+    TODO: Un-comment the line below and run the program to see the error message,
+    then fix the code and re-run to verify.
+*/
 // let crateCount = input.questionInt "How many crates are being loaded? " ;
 
-// TODO: Un-comment the three lines of code below and run the program to see the error message,
-// then fix the code and re-run to verify.
+/* 
+    TODO: Un-comment the three lines of code below and run the program to see the error message,
+    then fix the code and re-run to verify.
+*/
 // let weightPerCrate = 50;
 // let totalWeight = crateCount * weightPerCrate;
 // console.log('Total Cargo Weight: ${totalWeight}kg');
@@ -53,8 +61,10 @@ console.log("\n--- CARGO BAY CHECK ---");
 
 console.log("\n--- FINAL STATUS ---");
 
-// TODO: Un-comment the if/else statement below and run the program to see the error message,
-// then fix the code and re-run to verify.
+/* 
+    TODO: Un-comment the if/else statement below and run the program to see the error message,
+    then fix the code and re-run to verify.
+*/
 // if (engineStatus === "Ready" && totalWeight < 1000) 
 //     console.log("All systems GO. Launching " + pilotName + into orbit!");
 // } else {

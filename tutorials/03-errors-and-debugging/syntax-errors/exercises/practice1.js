@@ -9,14 +9,18 @@
 
 let fuel = 90;
 
-// TODO: Un-comment the line below and run the program to see the error message,
-// then fix the code and re-run to verify.
+/*
+    TODO: Un-comment the line below and run the program to see the error message,
+    then fix the code and re-run to verify.
+*/
 // console.log("Fuel level is "  fuel + '%");
 
 /** EXERCISE 2: THE RUNTIME CRASH **/
 
-// TODO: Un-comment the line below and run the program to see the error message,
-// then fix the code and re-run to verify.
+/* 
+    TODO: Un-comment the line below and run the program to see the error message,
+    then fix the code and re-run to verify. 
+*/
 // console.log(navCoordinate);
 
 let navCoordinate = "Sector-7G";
@@ -25,8 +29,10 @@ let navCoordinate = "Sector-7G";
 
 let oxygen = 100;
 
-// TODO: Un-comment the line below and run the program to see the error message,
-// then fix the code and re-run to verify.
+/* 
+    TODO: Un-comment the line below and run the program to see the error message,
+    then fix the code and re-run to verify. 
+*/
 // console.log(oxygen.toString);
 
 // HINT: toString is not a property — it's a method! Do a little research

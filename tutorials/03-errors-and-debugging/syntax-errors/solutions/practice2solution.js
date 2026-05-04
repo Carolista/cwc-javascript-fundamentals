@@ -49,7 +49,8 @@ console.log(`Total Cargo Weight: ${totalWeight}kg`);
 
 console.log("\n--- FINAL STATUS ---");
 
-/* Fixed Syntax: Added missing opening curly brace { for the if statement 
+/* 
+    Fixed Syntax: Added missing opening curly brace { for the if statement 
     and fixed the missing double quote in the string.
 */
 if (engineStatus === "Ready" && totalWeight < 1000) {
