@@ -30,8 +30,8 @@ let firstLetter = shipName[0];
 console.log(firstLetter); // G
 
 // Accessing a character in the middle
-let seventhLetter = shipName[9];
-console.log(seventhLetter); // N
+let tenthLetter = shipName[9];
+console.log(tenthLetter); // N
 
 /** EXAMPLE 3 - FINDING THE LAST CHARACTER **/
 
