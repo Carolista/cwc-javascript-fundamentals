@@ -17,11 +17,10 @@ let isExternalVacuum = true;
 
 // ERROR: Currently using OR (||). This would open the door in a vacuum!
 if (isInternalPressureStable && !isExternalVacuum) {
-    console.log("Airlock opening...");
+	console.log("Airlock opening...");
 } else {
-    console.log("Airlock remains sealed for safety."); // Airlock remains sealed for safety.
+	console.log("Airlock remains sealed for safety."); // Airlock remains sealed for safety.
 }
-
 
 /** EXERCISE 2: THE SPEEDING SHUTTLE **/
 
@@ -34,13 +33,12 @@ let shuttleSpeed = 30000;
 
 // ERROR: The conditions are in the wrong order, or using the wrong signs.
 if (shuttleSpeed > 25000) {
-    console.log("Status: Fast"); // Status: Fast
+	console.log("Status: Fast"); // Status: Fast
 } else if (shuttleSpeed > 10000) {
-    console.log("Status: Cruising");
+	console.log("Status: Cruising");
 } else {
-    console.log("Status: Slow");
+	console.log("Status: Slow");
 }
-
 
 /** EXERCISE 3: THE AUTO-LANDER TERNARY **/
 
@@ -53,9 +51,8 @@ let currentAltitude = 50;
 // ERROR: The ternary results are swapped.
 const landingStatus = currentAltitude === 0 ? "Landed" : "In Flight";
 
-console.log(`Current Altitude: ${currentAltitude}. Mission State: ${landingStatus}`); 
+console.log(`Current Altitude: ${currentAltitude}. Mission State: ${landingStatus}`);
 // Current Altitude: 50. Mission State: In Flight
-
 
 /** EXERCISE 4: THE OVER-TRUSTING COMPUTER **/
 
@@ -67,7 +64,7 @@ let engineTemp = "Cold";
 
 // ERROR: The code is only checking fuel.
 if (fuel > 90 && engineTemp === "Warm") {
-    console.log("Engaging Hyperdrive!");
+	console.log("Engaging Hyperdrive!");
 } else {
-    console.log("Hyperdrive failed: Check engine temperature."); // Hyperdrive failed: Check engine temperature.
+	console.log("Hyperdrive failed: Check engine temperature."); // Hyperdrive failed: Check engine temperature.
 }

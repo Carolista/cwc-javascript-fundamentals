@@ -65,7 +65,7 @@ console.log("\n--- FINAL STATUS ---");
     TODO: Un-comment the if/else statement below and run the program to see the error message,
     then fix the code and re-run to verify.
 */
-// if (engineStatus === "Ready" && totalWeight < 1000) 
+// if (engineStatus === "Ready" && totalWeight < 1000)
 //     console.log("All systems GO. Launching " + pilotName + into orbit!");
 // } else {
 //     console.log("Launch ABORTED. Check engine status or cargo weight.");

@@ -1,12 +1,12 @@
 /**** DEBUGGING LOGIC ERRORS ****/
 
-/** EXAMPLE 1 - THE FLIPPED SIGN **/ 
+/** EXAMPLE 1 - THE FLIPPED SIGN **/
 
 let shieldPower = 10;
 let dangerZoneThreshold = 50;
 
 // DEMO: Run the code to see the result, then fix the code and re-run to verify.
-let isShieldSafe = shieldPower < dangerZoneThreshold; 
+let isShieldSafe = shieldPower < dangerZoneThreshold;
 
 console.log(`Shield Power: ${shieldPower}`);
 console.log(`Is Shield Safe? ${isShieldSafe}`);
@@ -21,7 +21,7 @@ let isPilotCleared = false; // for spacewalk
 
 // DEMO: Run the code to see the result, then fix the code and re-run to verify.
 if (pilotExperience >= requiredExperience && pilotExperience >= requiredExperience) {
-    isPilotCleared = true;
+	isPilotCleared = true;
 }
 
 console.log(isPilotCleared);

@@ -18,12 +18,12 @@
     it is without having to look at where it was defined.
 */
 
-/** EXAMPLE 1 - THE IMMUTABILITY RULE **/ 
+/** EXAMPLE 1 - THE IMMUTABILITY RULE **/
 
 const MISSION_NAME = "Ares V";
 // MISSION_NAME = "Ares VI"; // ❌ ERROR: Assignment to constant variable.
 
-/** EXAMPLE 2 - SCREAMING_SNAKE_CASE USES **/ 
+/** EXAMPLE 2 - SCREAMING_SNAKE_CASE USES **/
 
 // Physics and Math constants
 const PI = 3.14159;
@@ -36,4 +36,4 @@ const DEFAULT_LANGUAGE = "EN-US";
 /** EXAMPLE 3 - CONST vs LET **/
 
 const BIRTH_YEAR = 1995; // This will never change.
-let currentAge = 31;     // This changes every year.
+let currentAge = 31; // This changes every year.
