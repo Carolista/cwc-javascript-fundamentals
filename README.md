@@ -41,41 +41,57 @@ This particular collection of coding exercises focuses solely on JavaScript (occ
 
 ### 1 - Basic Syntax
 
-| Topic                                   | Code                                                                           | Videos                                       |
-| --------------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------- |
-| Printing to the Console                 | [printing-to-the-console](/tutorials/01-basic-syntax/printing-to-the-console/) | [Demo](https://youtu.be/setRUjWlPPY) (6:29)  |
-| Declaring & Initializing Variables      | [declaring-variables](/tutorials/01-basic-syntax/declaring-variables/)         | [Demo](https://youtu.be/6itBZ65-D3A) (6:49)  |
-| Assigning Data Types                    | [data-types](/tutorials/01-basic-syntax/data-types/)                           | [Demo](https://youtu.be/QABAPdzfQqA) (7:16)  |
-| Order of Code Execution                 | [code-execution](/tutorials/01-basic-syntax/code-execution/)                   | [Demo](https://youtu.be/qMEOOwXoDEU) (4:17)  |
-| Naming Variables                        | [naming-variables](/tutorials/01-basic-syntax/naming-variables/)               | [Demo](https://youtu.be/M3xjxDgAdBY) (4:03)  |
-| Data Type Conversion: Strings           | [data-type-conversion](/tutorials/01-basic-syntax/data-type-conversion/)       | [Demo](https://youtu.be/bAd9Oug2UGo) (6:36)  |
-| Data Type Conversion: Numbers           | [data-type-conversion](/tutorials/01-basic-syntax/data-type-conversion/)       | [Demo](https://youtu.be/KqDdIMRdoLk) (7:26)  |
-| Data Type Conversion: Booleans          | [data-type-conversion](/tutorials/01-basic-syntax/data-type-conversion/)       | [Demo](https://youtu.be/xTPpM-wQXLc) (6:52)  |
-| Data Type Conversion: Type Coercion     | [data-type-conversion](/tutorials/01-basic-syntax/data-type-conversion/)       | [Demo](https://youtu.be/OA1NSzU0SHs) (7:49)  |
-| Template Literals                       | [template-literals](/tutorials/01-basic-syntax/template-literals/)             | [Demo](https://youtu.be/aomY7Y5khUI) (7:37)  |
-| Constants                               | [constants](/tutorials/01-basic-syntax/constants/)                             | [Demo](https://youtu.be/NDcT4XVbLFo) (4:27)  |
-| Capturing User Input with readline-sync | [user-input](/tutorials/01-basic-syntax/user-input/)                           | [Demo](https://youtu.be/UDFCkM5fAUo) (11:08) |
+| Topics                                  | Code                                                                           | Videos                               |  Length |
+| --------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------ | ------: |
+| Printing to the Console                 | [printing-to-the-console](/tutorials/01-basic-syntax/printing-to-the-console/) | [Demo](https://youtu.be/setRUjWlPPY) |    6:29 |
+| Declaring & Initializing Variables      | [declaring-variables](/tutorials/01-basic-syntax/declaring-variables/)         | [Demo](https://youtu.be/6itBZ65-D3A) |    6:49 |
+| Assigning Data Types                    | [data-types](/tutorials/01-basic-syntax/data-types/)                           | [Demo](https://youtu.be/QABAPdzfQqA) |    7:16 |
+| Order of Code Execution                 | [code-execution](/tutorials/01-basic-syntax/code-execution/)                   | [Demo](https://youtu.be/qMEOOwXoDEU) |    4:17 |
+| Naming Variables                        | [naming-variables](/tutorials/01-basic-syntax/naming-variables/)               | [Demo](https://youtu.be/M3xjxDgAdBY) |    4:03 |
+| Data Type Conversion: Strings           | [data-type-conversion](/tutorials/01-basic-syntax/data-type-conversion/)       | [Demo](https://youtu.be/bAd9Oug2UGo) |    6:36 |
+| Data Type Conversion: Numbers           | [data-type-conversion](/tutorials/01-basic-syntax/data-type-conversion/)       | [Demo](https://youtu.be/KqDdIMRdoLk) |    7:26 |
+| Data Type Conversion: Booleans          | [data-type-conversion](/tutorials/01-basic-syntax/data-type-conversion/)       | [Demo](https://youtu.be/xTPpM-wQXLc) |    6:52 |
+| Data Type Conversion: Type Coercion     | [data-type-conversion](/tutorials/01-basic-syntax/data-type-conversion/)       | [Demo](https://youtu.be/OA1NSzU0SHs) |    7:49 |
+| Template Literals                       | [template-literals](/tutorials/01-basic-syntax/template-literals/)             | [Demo](https://youtu.be/aomY7Y5khUI) |    7:37 |
+| Constants                               | [constants](/tutorials/01-basic-syntax/constants/)                             | [Demo](https://youtu.be/NDcT4XVbLFo) |    4:27 |
+| Capturing User Input with readline-sync | [user-input](/tutorials/01-basic-syntax/user-input/)                           | [Demo](https://youtu.be/UDFCkM5fAUo) |   11:08 |
+|                                         |                                                                                | TOTAL                                | 1:20:49 |
 
 ---
 
 ### 2 - Conditionals
 
-| Topic                         | Code                                                                                     | Videos                                       |
-| ----------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------- |
-| Basic Boolean Expressions     | [basic-boolean-expressions](/tutorials/02-conditionals/basic-boolean-expressions/)       | [Demo](https://youtu.be/C8JBw-Nrgd8) (6:32)  |
-| Compound Boolean Expressions  | [compound-boolean-expressions](/tutorials/02-conditionals/compound-boolean-expressions/) | [Demo](https://youtu.be/9iuuOkLV_UY) (5:20)  |
-| Basic Conditional Statements  | [basic-conditionals](/tutorials//02-conditionals/basic-conditionals/)                    | [Demo](https://youtu.be/QsWtOX6bNZI) (11:11) |
-| Nested Conditional Statements | [nested-conditionals](/tutorials/02-conditionals/nested-conditionals/)                   | [Demo](https://youtu.be/XhzXDnG06x4) (7:55)  |
-| Ternary Expressions           | [ternary-expressions](/tutorials/02-conditionals/ternary-expressions/)                   | [Demo](https://youtu.be/B8P8RbmmeUg) (5:19)  |
+| Topics                        | Code                                                                                     | Videos                               | Length |
+| ----------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------ | -----: |
+| Basic Boolean Expressions     | [basic-boolean-expressions](/tutorials/02-conditionals/basic-boolean-expressions/)       | [Demo](https://youtu.be/C8JBw-Nrgd8) |   6:32 |
+| Compound Boolean Expressions  | [compound-boolean-expressions](/tutorials/02-conditionals/compound-boolean-expressions/) | [Demo](https://youtu.be/9iuuOkLV_UY) |   5:20 |
+| Basic Conditional Statements  | [basic-conditionals](/tutorials//02-conditionals/basic-conditionals/)                    | [Demo](https://youtu.be/QsWtOX6bNZI) |  11:11 |
+| Nested Conditional Statements | [nested-conditionals](/tutorials/02-conditionals/nested-conditionals/)                   | [Demo](https://youtu.be/XhzXDnG06x4) |   7:55 |
+| Ternary Expressions           | [ternary-expressions](/tutorials/02-conditionals/ternary-expressions/)                   | [Demo](https://youtu.be/B8P8RbmmeUg) |   5:19 |
+|                               |                                                                                          | TOTAL                                |  36:17 |
 
 ---
 
 ### 3 - Errors & Debugging
 
-| Topic                               | Code                                                                           | Videos                                      |
-| ----------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------- |
-| Debugging Syntax and Runtime Errors | [syntax-errors](/tutorials/03-errors-and-debugging/syntax-and-runtime-errors/) | [Demo](https://youtu.be/63hfXRu7sDQ) (6:48) |
-| Debugging Logic Errors              | [logic-errors](/tutorials/03-errors-and-debugging/logic-errors/)               | [Demo](https://youtu.be/_9iAOWDVpR0) (4:02) |
+| Topics                              | Code                                                                           | Videos                               | Length |
+| ----------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------ | -----: |
+| Debugging Syntax and Runtime Errors | [syntax-errors](/tutorials/03-errors-and-debugging/syntax-and-runtime-errors/) | [Demo](https://youtu.be/63hfXRu7sDQ) |   6:48 |
+| Debugging Logic Errors              | [logic-errors](/tutorials/03-errors-and-debugging/logic-errors/)               | [Demo](https://youtu.be/_9iAOWDVpR0) |   4:02 |
+|                                     |                                                                                | TOTAL                                |  10:50 |
+
+---
+
+### 4 - Strings
+
+| Topics                                        | Code                                                                        | Videos                               | Length |
+| --------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------ | -----: |
+| String Length, Indexing, and Bracket Notation | [length-indexing-notation](/tutorials/04-strings/length-indexing-notation/) | [Demo](https://youtu.be/5ugTb7ZNn5c) |   5:34 |
+| Common String Methods: Searching Strings      | [string-methods-search](/tutorials/04-strings/string-methods-search/)       | [Demo](https://youtu.be/9kpV2qskS1M) |   4:36 |
+| Common String Methods: Transforming Strings   | [string-methods-transform](/tutorials/04-strings/string-methods-transform/) | [Demo](https://youtu.be/K3KdD3M3eTA) |   4:11 |
+| Common String Methods: Retrieving Substrings  | [string-methods-retrieve](/tutorials/04-strings/string-methods-retrieve/)   | [Demo](https://youtu.be/NkgNjj2a96w) |   5:03 |
+| Method Chaining                               | [method-chaining](/tutorials/04-strings/method-chaining/)                   | [Demo](https://youtu.be/C6q0YFZzM9o) |   4:14 |
+|                                               |                                                                             | TOTAL                                |  23:38 |
 
 ---
 
