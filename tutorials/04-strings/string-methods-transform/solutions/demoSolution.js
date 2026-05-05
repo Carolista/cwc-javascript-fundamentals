@@ -44,3 +44,8 @@ let planet = "Mars";
 planet.toUpperCase(); // This returns "MARS" but doesn't save it!
 
 console.log(planet); // Mars (The original is unchanged)
+
+// Reassignment to permanently change planet
+planet = planet.toUpperCase();
+
+console.log(planet); // Now it has been changed!
